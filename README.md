@@ -3,7 +3,7 @@
 É um projeto colaborativo Flutter que tem por objetivo o mapeamento de árvores da região de Monsenhor Gil - PI
 
 ## Comece Agora
-Esse projeto é o ponto de partida para uma aplicação FLutter.
+Esse projeto é o ponto de partida para uma aplicação Flutter.
 
 Alguns recursos que você necessita se esse é seu primeiro projeto flutter:
 
