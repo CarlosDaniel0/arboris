@@ -5,14 +5,14 @@
 ## Comece Agora
 Esse projeto é o ponto de partida para uma aplicação Flutter.
 
-Alguns recursos que você necessita se esse é seu primeiro projeto flutter:
+Alguns recursos que você necessita se esse é seu primeiro projeto Flutter:
 
 - [Lab: Escrev seu primeiro app Flutter](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Utilize os exemplos Flutter](https://flutter.dev/docs/cookbook)
 
 Para ajudar quem está começando com o Flutter, veja nosso
 [Documentação Online](https://flutter.dev/docs), na qual disponibiliza tutoriais,
-exemplos, orientação para o desenvolvimento mobile, e uma completa API de referência.
+exemplo e orientação para o desenvolvimento mobile, além de uma completa API de referência.
 
 
 
