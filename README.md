@@ -7,7 +7,7 @@ Esse projeto é o ponto de partida para uma aplicação Flutter.
 
 Alguns recursos que você necessita se esse é seu primeiro projeto Flutter:
 
-- [Lab: Escrev seu primeiro app Flutter](https://flutter.dev/docs/get-started/codelab)
+- [Lab: Escreva seu primeiro app Flutter](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Utilize os exemplos Flutter](https://flutter.dev/docs/cookbook)
 
 Para ajudar quem está começando com o Flutter, veja nosso
