@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "763720830983",
+    "firebase_url": "https://arboris.firebaseio.com",
+    "project_id": "arboris",
+    "storage_bucket": "arboris.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763720830983:android:c546cfc42cb74a21f29aa2",
+        "android_client_info": {
+          "package_name": "com.example.projeto_arboris"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763720830983-8gj7v6f7kag6bdgn999t0eg4h2mohlk4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.projeto_arboris",
+            "certificate_hash": "63d770e2ef85f5442f17a6335bdefffeffe7d86c"
+          }
+        },
+        {
+          "client_id": "763720830983-576b0cmagkj6ckfrornippk5qgtsnu18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMYf798kN77aspO1Fc9n1Q0y4nBabcAXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763720830983-576b0cmagkj6ckfrornippk5qgtsnu18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

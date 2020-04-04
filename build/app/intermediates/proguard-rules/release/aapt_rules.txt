@@ -1,0 +1,14 @@
+# Referenced at /home/daniel/Documentos/Flutter/projeto_arboris/build/app/intermediates/merged_manifests/release/arm64-v8a/AndroidManifest.xml:27
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /home/daniel/Documentos/Flutter/projeto_arboris/build/app/intermediates/merged_manifests/release/arm64-v8a/AndroidManifest.xml:36
+-keep class com.example.projeto_arboris.MainActivity { <init>(); }
+# Referenced at /home/daniel/Documentos/Flutter/projeto_arboris/build/app/intermediates/merged_manifests/release/arm64-v8a/AndroidManifest.xml:80
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(); }
+# Referenced at /home/daniel/Documentos/Flutter/projeto_arboris/build/app/intermediates/merged_manifests/release/arm64-v8a/AndroidManifest.xml:57
+-keep class com.google.firebase.components.ComponentDiscoveryService { <init>(); }
+# Referenced at /home/daniel/Documentos/Flutter/projeto_arboris/build/app/intermediates/merged_manifests/release/arm64-v8a/AndroidManifest.xml:85
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(); }
+# Referenced at /home/daniel/Documentos/Flutter/projeto_arboris/build/app/intermediates/merged_manifests/release/arm64-v8a/AndroidManifest.xml:27
+-keep class io.flutter.app.FlutterApplication { <init>(); }
+# Referenced at /home/daniel/Documentos/Flutter/projeto_arboris/build/app/intermediates/merged_manifests/release/arm64-v8a/AndroidManifest.xml:72
+-keep class io.flutter.plugins.urllauncher.WebViewActivity { <init>(); }
