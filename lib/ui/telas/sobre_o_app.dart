@@ -45,7 +45,7 @@ class SobreOApp extends StatelessWidget {
                       onPressed: () {
                         launch("https://drive.google.com/drive/folders/1QuQ-9eSuAs0UYsxOFNTdGnxSXXHFJKuf");
                       }, 
-                      child: Text("Ver Projeto", style: TextStyle(color: Colors.white),))
+                      child: Text("Ver Imagens", style: TextStyle(color: Colors.white),))
                   ),
                 ),
               ),

@@ -1,5 +1,5 @@
-name: projeto_arboris
-description: A new Flutter project.
+name: arboris
+description: Mapeamento colaborativo 
 
 # The following defines the version and build number for your application.
 # A version number is three numbers separated by dots, like 1.2.43
@@ -17,7 +17,7 @@ environment:
   sdk: ">=2.3.0 <3.0.0"
 
 dependencies:
-  flutter:
+  flutter: 
     sdk: flutter
 
   # The following adds the Cupertino Icons font to your application.
@@ -44,6 +44,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
+
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 
@@ -57,7 +58,7 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-    - assets/ 
+    - assets/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.

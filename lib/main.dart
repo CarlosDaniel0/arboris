@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:projeto_arboris/ui/home.dart';
+import 'package:arboris/ui/home.dart';
 
 void main() => runApp(
     MaterialApp(

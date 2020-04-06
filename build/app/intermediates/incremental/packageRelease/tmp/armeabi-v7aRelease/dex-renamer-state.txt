@@ -1,4 +1,4 @@
-#Sat Apr 04 16:03:31 BRT 2020
-base.0=/home/daniel/Documentos/Flutter/projeto_arboris/build/app/intermediates/transforms/r8/release/0/classes.dex
+#Mon Apr 06 10:38:59 BRT 2020
+base.0=/home/daniel/Documentos/arboris/build/app/intermediates/transforms/r8/release/0/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

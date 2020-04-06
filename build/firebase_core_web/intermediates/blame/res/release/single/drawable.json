@@ -1,18 +1,18 @@
 [
     {
-        "merged": "/home/daniel/Documentos/Flutter/projeto_arboris/build/firebase_core_web/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
-        "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/c1da7862c7abb8e426855a3f78caf221/core-1.0.0/res/drawable/notification_tile_bg.xml"
+        "merged": "/home/daniel/Documentos/arboris/build/firebase_core_web/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/ce530c5b50dc774f16b6e9179ea6d25d/core-1.0.0/res/drawable/notification_tile_bg.xml"
     },
     {
-        "merged": "/home/daniel/Documentos/Flutter/projeto_arboris/build/firebase_core_web/intermediates/res/merged/release/drawable/notification_bg.xml",
-        "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/c1da7862c7abb8e426855a3f78caf221/core-1.0.0/res/drawable/notification_bg.xml"
+        "merged": "/home/daniel/Documentos/arboris/build/firebase_core_web/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/ce530c5b50dc774f16b6e9179ea6d25d/core-1.0.0/res/drawable/notification_bg_low.xml"
     },
     {
-        "merged": "/home/daniel/Documentos/Flutter/projeto_arboris/build/firebase_core_web/intermediates/res/merged/release/drawable/notification_bg_low.xml",
-        "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/c1da7862c7abb8e426855a3f78caf221/core-1.0.0/res/drawable/notification_bg_low.xml"
+        "merged": "/home/daniel/Documentos/arboris/build/firebase_core_web/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/ce530c5b50dc774f16b6e9179ea6d25d/core-1.0.0/res/drawable/notification_icon_background.xml"
     },
     {
-        "merged": "/home/daniel/Documentos/Flutter/projeto_arboris/build/firebase_core_web/intermediates/res/merged/release/drawable/notification_icon_background.xml",
-        "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/c1da7862c7abb8e426855a3f78caf221/core-1.0.0/res/drawable/notification_icon_background.xml"
+        "merged": "/home/daniel/Documentos/arboris/build/firebase_core_web/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/ce530c5b50dc774f16b6e9179ea6d25d/core-1.0.0/res/drawable/notification_bg.xml"
     }
 ]

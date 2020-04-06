@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/daniel/Documentos/Flutter/projeto_arboris/build/location_permissions/intermediates/res/merged/release/values-si/values-si.xml",
+            "outputFile": "/home/daniel/Documentos/arboris/build/location_permissions/intermediates/res/merged/release/values-si/values-si.xml",
             "map": [
                 {
-                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/3aaf6e5219b7f981ec263df919098c6f/core-1.1.0/res/values-si/values-si.xml",
+                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/0a88e15c27fe8f45486868f55d363bed/core-1.1.0/res/values-si/values-si.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -16,10 +16,10 @@
             ]
         },
         {
-            "outputFile": "/home/daniel/Documentos/Flutter/projeto_arboris/build/location_permissions/intermediates/incremental/mergeReleaseResources/merged.dir/values-si/values-si.xml",
+            "outputFile": "/home/daniel/Documentos/arboris/build/location_permissions/intermediates/incremental/mergeReleaseResources/merged.dir/values-si/values-si.xml",
             "map": [
                 {
-                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/3aaf6e5219b7f981ec263df919098c6f/core-1.1.0/res/values-si/values-si.xml",
+                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/0a88e15c27fe8f45486868f55d363bed/core-1.1.0/res/values-si/values-si.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

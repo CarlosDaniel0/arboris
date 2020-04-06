@@ -1,29 +1,44 @@
 {
     "logs": [
         {
-            "outputFile": "/home/daniel/Documentos/Flutter/projeto_arboris/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
+            "outputFile": "/home/daniel/Documentos/arboris/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/6f4e6eb26f6c204062e462fe30c558b2/play-services-maps-17.0.0/res/values/values.xml",
+                    "source": "/home/daniel/Documentos/arboris/android/app/src/main/res/values/colors.xml",
                     "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "165",
-                        "endLines": "62",
-                        "endColumns": "20",
-                        "endOffsets": "1582"
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "44",
+                        "endOffsets": "95"
                     },
                     "to": {
-                        "startLines": "374",
+                        "startLines": "3",
                         "startColumns": "4",
-                        "startOffsets": "23606",
-                        "endLines": "432",
-                        "endColumns": "20",
-                        "endOffsets": "25023"
+                        "startOffsets": "166",
+                        "endColumns": "44",
+                        "endOffsets": "206"
                     }
                 },
                 {
-                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/d255798b3263f4a3c8e304b7de4de531/coordinatorlayout-1.0.0/res/values/values.xml",
+                    "source": "/home/daniel/Documentos/arboris/build/app/generated/res/google-services/release/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,199,301,383,487,596,716,807",
+                        "endColumns": "143,101,81,103,108,119,90,67",
+                        "endOffsets": "194,296,378,482,591,711,802,870"
+                    },
+                    "to": {
+                        "startLines": "106,107,108,109,110,111,112,113",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "7836,7980,8082,8164,8268,8377,8497,8588",
+                        "endColumns": "143,101,81,103,108,119,90,67",
+                        "endOffsets": "7975,8077,8159,8263,8372,8492,8583,8651"
+                    }
+                },
+                {
+                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/7351c863440cd21c1ca8c6c13bea4f8e/coordinatorlayout-1.0.0/res/values/values.xml",
                     "from": {
                         "startLines": "2,102,3,13",
                         "startColumns": "4,4,4,4",
@@ -42,60 +57,24 @@
                     }
                 },
                 {
-                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/c74e9d76b9181d3585ba58111e512b89/play-services-base-17.2.1/res/values/values.xml",
+                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/561677892c7566fe2fa190c2a3df237a/jetified-play-services-basement-17.2.1/res/values/values.xml",
                     "from": {
-                        "startLines": "4,5,6,7,8,9,10,11,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,33,46",
-                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
-                        "startOffsets": "215,301,377,463,549,625,702,778,951,1052,1233,1354,1457,1637,1756,1868,1967,2155,2256,2437,2558,2733,2877,2936,2994,3164,3475",
-                        "endLines": "4,5,6,7,8,9,10,11,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,45,64",
-                        "endColumns": "85,75,85,85,75,76,75,75,100,180,120,102,179,118,111,98,187,100,180,120,174,143,58,57,74,20,20",
-                        "endOffsets": "300,376,462,548,624,701,777,853,1051,1232,1353,1456,1636,1755,1867,1966,2154,2255,2436,2557,2732,2876,2935,2993,3068,3474,3887"
+                        "startLines": "4,7",
+                        "startColumns": "0,0",
+                        "startOffsets": "243,406",
+                        "endColumns": "63,166",
+                        "endOffsets": "306,572"
                     },
                     "to": {
-                        "startLines": "4,5,6,7,8,9,10,11,88,89,90,91,92,93,94,95,97,98,99,100,101,102,103,104,105,361,433",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "211,301,381,471,561,641,722,802,5503,5608,5789,5914,6021,6201,6324,6440,6710,6898,7003,7184,7309,7484,7632,7695,7757,23291,25028",
-                        "endLines": "4,5,6,7,8,9,10,11,88,89,90,91,92,93,94,95,97,98,99,100,101,102,103,104,105,373,451",
-                        "endColumns": "89,79,89,89,79,80,79,79,104,180,124,106,179,122,115,102,187,104,180,124,174,147,62,61,78,20,20",
-                        "endOffsets": "296,376,466,556,636,717,797,877,5603,5784,5909,6016,6196,6319,6435,6538,6893,6998,7179,7304,7479,7627,7690,7752,7831,23601,25440"
+                        "startLines": "86,96",
+                        "startColumns": "4,4",
+                        "startOffsets": "5365,6543",
+                        "endColumns": "67,166",
+                        "endOffsets": "5428,6705"
                     }
                 },
                 {
-                    "source": "/home/daniel/Documentos/Flutter/projeto_arboris/build/app/generated/res/google-services/release/values/values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,199,301,383,487,596,716,807",
-                        "endColumns": "143,101,81,103,108,119,90,67",
-                        "endOffsets": "194,296,378,482,591,711,802,870"
-                    },
-                    "to": {
-                        "startLines": "106,107,108,109,110,111,112,113",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "7836,7980,8082,8164,8268,8377,8497,8588",
-                        "endColumns": "143,101,81,103,108,119,90,67",
-                        "endOffsets": "7975,8077,8159,8263,8372,8492,8583,8651"
-                    }
-                },
-                {
-                    "source": "/home/daniel/Documentos/Flutter/projeto_arboris/android/app/src/main/res/values/colors.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "44",
-                        "endOffsets": "95"
-                    },
-                    "to": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "166",
-                        "endColumns": "44",
-                        "endOffsets": "206"
-                    }
-                },
-                {
-                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/35f29bb1a578f0319e9c3e21730b6b49/core-1.2.0/res/values/values.xml",
+                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/6f5a09b4953ee13b34e15b87364445ea/core-1.2.0/res/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,83,84,88,89,90,91,98,141,173,210",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -114,7 +93,7 @@
                     }
                 },
                 {
-                    "source": "/home/daniel/Documentos/Flutter/projeto_arboris/android/app/src/main/res/values/styles.xml",
+                    "source": "/home/daniel/Documentos/arboris/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -133,20 +112,41 @@
                     }
                 },
                 {
-                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/417d4fc74ca00e350fab7b438c4a34fc/jetified-play-services-basement-17.2.1/res/values/values.xml",
+                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/5629bc93d01cebe5c42d56b2f8b92eec/play-services-maps-17.0.0/res/values/values.xml",
                     "from": {
-                        "startLines": "4,7",
-                        "startColumns": "0,0",
-                        "startOffsets": "243,406",
-                        "endColumns": "63,166",
-                        "endOffsets": "306,572"
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "165",
+                        "endLines": "62",
+                        "endColumns": "20",
+                        "endOffsets": "1582"
                     },
                     "to": {
-                        "startLines": "86,96",
-                        "startColumns": "4,4",
-                        "startOffsets": "5365,6543",
-                        "endColumns": "67,166",
-                        "endOffsets": "5428,6705"
+                        "startLines": "374",
+                        "startColumns": "4",
+                        "startOffsets": "23606",
+                        "endLines": "432",
+                        "endColumns": "20",
+                        "endOffsets": "25023"
+                    }
+                },
+                {
+                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/3e048612d3799077421484434852ba6c/play-services-base-17.2.1/res/values/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,33,46",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "215,301,377,463,549,625,702,778,951,1052,1233,1354,1457,1637,1756,1868,1967,2155,2256,2437,2558,2733,2877,2936,2994,3164,3475",
+                        "endLines": "4,5,6,7,8,9,10,11,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,45,64",
+                        "endColumns": "85,75,85,85,75,76,75,75,100,180,120,102,179,118,111,98,187,100,180,120,174,143,58,57,74,20,20",
+                        "endOffsets": "300,376,462,548,624,701,777,853,1051,1232,1353,1456,1636,1755,1867,1966,2154,2255,2436,2557,2732,2876,2935,2993,3068,3474,3887"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,11,88,89,90,91,92,93,94,95,97,98,99,100,101,102,103,104,105,361,433",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "211,301,381,471,561,641,722,802,5503,5608,5789,5914,6021,6201,6324,6440,6710,6898,7003,7184,7309,7484,7632,7695,7757,23291,25028",
+                        "endLines": "4,5,6,7,8,9,10,11,88,89,90,91,92,93,94,95,97,98,99,100,101,102,103,104,105,373,451",
+                        "endColumns": "89,79,89,89,79,80,79,79,104,180,124,106,179,122,115,102,187,104,180,124,174,147,62,61,78,20,20",
+                        "endOffsets": "296,376,466,556,636,717,797,877,5603,5784,5909,6016,6196,6319,6435,6538,6893,6998,7179,7304,7479,7627,7690,7752,7831,23601,25440"
                     }
                 }
             ]

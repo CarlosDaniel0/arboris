@@ -1,14 +1,24 @@
-# Referenced at /home/daniel/Documentos/Flutter/projeto_arboris/build/app/intermediates/merged_manifests/release/arm64-v8a/AndroidManifest.xml:27
+# Referenced at /home/daniel/Documentos/arboris/build/app/intermediates/merged_manifests/release/arm64-v8a/AndroidManifest.xml:30
 -keep class androidx.core.app.CoreComponentFactory { <init>(); }
-# Referenced at /home/daniel/Documentos/Flutter/projeto_arboris/build/app/intermediates/merged_manifests/release/arm64-v8a/AndroidManifest.xml:36
--keep class com.example.projeto_arboris.MainActivity { <init>(); }
-# Referenced at /home/daniel/Documentos/Flutter/projeto_arboris/build/app/intermediates/merged_manifests/release/arm64-v8a/AndroidManifest.xml:80
+# Referenced at /home/daniel/Documentos/arboris/build/app/intermediates/merged_manifests/release/arm64-v8a/AndroidManifest.xml:39
+-keep class br.eco.arboris.MainActivity { <init>(); }
+# Referenced at /home/daniel/Documentos/arboris/build/app/intermediates/merged_manifests/release/arm64-v8a/AndroidManifest.xml:123
 -keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(); }
-# Referenced at /home/daniel/Documentos/Flutter/projeto_arboris/build/app/intermediates/merged_manifests/release/arm64-v8a/AndroidManifest.xml:57
+# Referenced at /home/daniel/Documentos/arboris/build/app/intermediates/merged_manifests/release/arm64-v8a/AndroidManifest.xml:91
+-keep class com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver { <init>(); }
+# Referenced at /home/daniel/Documentos/arboris/build/app/intermediates/merged_manifests/release/arm64-v8a/AndroidManifest.xml:105
+-keep class com.google.android.gms.measurement.AppMeasurementJobService { <init>(); }
+# Referenced at /home/daniel/Documentos/arboris/build/app/intermediates/merged_manifests/release/arm64-v8a/AndroidManifest.xml:86
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(); }
+# Referenced at /home/daniel/Documentos/arboris/build/app/intermediates/merged_manifests/release/arm64-v8a/AndroidManifest.xml:101
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(); }
+# Referenced at /home/daniel/Documentos/arboris/build/app/intermediates/merged_manifests/release/arm64-v8a/AndroidManifest.xml:60
 -keep class com.google.firebase.components.ComponentDiscoveryService { <init>(); }
-# Referenced at /home/daniel/Documentos/Flutter/projeto_arboris/build/app/intermediates/merged_manifests/release/arm64-v8a/AndroidManifest.xml:85
+# Referenced at /home/daniel/Documentos/arboris/build/app/intermediates/merged_manifests/release/arm64-v8a/AndroidManifest.xml:114
+-keep class com.google.firebase.iid.FirebaseInstanceIdReceiver { <init>(); }
+# Referenced at /home/daniel/Documentos/arboris/build/app/intermediates/merged_manifests/release/arm64-v8a/AndroidManifest.xml:128
 -keep class com.google.firebase.provider.FirebaseInitProvider { <init>(); }
-# Referenced at /home/daniel/Documentos/Flutter/projeto_arboris/build/app/intermediates/merged_manifests/release/arm64-v8a/AndroidManifest.xml:27
+# Referenced at /home/daniel/Documentos/arboris/build/app/intermediates/merged_manifests/release/arm64-v8a/AndroidManifest.xml:30
 -keep class io.flutter.app.FlutterApplication { <init>(); }
-# Referenced at /home/daniel/Documentos/Flutter/projeto_arboris/build/app/intermediates/merged_manifests/release/arm64-v8a/AndroidManifest.xml:72
+# Referenced at /home/daniel/Documentos/arboris/build/app/intermediates/merged_manifests/release/arm64-v8a/AndroidManifest.xml:81
 -keep class io.flutter.plugins.urllauncher.WebViewActivity { <init>(); }

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/daniel/Documentos/Flutter/projeto_arboris/build/url_launcher/intermediates/incremental/mergeReleaseResources/merged.dir/values-en-rAU/values-en-rAU.xml",
+            "outputFile": "/home/daniel/Documentos/arboris/build/url_launcher/intermediates/res/merged/release/values-en-rAU/values-en-rAU.xml",
             "map": [
                 {
-                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/c1da7862c7abb8e426855a3f78caf221/core-1.0.0/res/values-en-rAU/values-en-rAU.xml",
+                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/ce530c5b50dc774f16b6e9179ea6d25d/core-1.0.0/res/values-en-rAU/values-en-rAU.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -16,10 +16,10 @@
             ]
         },
         {
-            "outputFile": "/home/daniel/Documentos/Flutter/projeto_arboris/build/url_launcher/intermediates/res/merged/release/values-en-rAU/values-en-rAU.xml",
+            "outputFile": "/home/daniel/Documentos/arboris/build/url_launcher/intermediates/incremental/mergeReleaseResources/merged.dir/values-en-rAU/values-en-rAU.xml",
             "map": [
                 {
-                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/c1da7862c7abb8e426855a3f78caf221/core-1.0.0/res/values-en-rAU/values-en-rAU.xml",
+                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/ce530c5b50dc774f16b6e9179ea6d25d/core-1.0.0/res/values-en-rAU/values-en-rAU.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

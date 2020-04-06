@@ -1,29 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/daniel/Documentos/Flutter/projeto_arboris/build/cloud_firestore_web/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
+            "outputFile": "/home/daniel/Documentos/arboris/build/cloud_firestore_web/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/d255798b3263f4a3c8e304b7de4de531/coordinatorlayout-1.0.0/res/values/values.xml",
-                    "from": {
-                        "startLines": "2,102,3,13",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,5935,116,724",
-                        "endLines": "2,104,12,101",
-                        "endColumns": "60,12,24,24",
-                        "endOffsets": "111,6075,719,5930"
-                    },
-                    "to": {
-                        "startLines": "2,69,79,89",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "105,4546,4989,5597",
-                        "endLines": "2,71,88,177",
-                        "endColumns": "60,12,24,24",
-                        "endOffsets": "161,4686,5592,10803"
-                    }
-                },
-                {
-                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/477e81a6102496b4df20cd2557cfcd3a/media-1.0.0/res/values/values.xml",
+                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/d5891aeebd64f384d1362c075a7101c7/media-1.0.0/res/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -40,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/c1da7862c7abb8e426855a3f78caf221/core-1.0.0/res/values/values.xml",
+                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/ce530c5b50dc774f16b6e9179ea6d25d/core-1.0.0/res/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,5,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,171,172,176,177,178,6,13,56,88,125",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -59,7 +40,26 @@
                     }
                 },
                 {
-                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/f3e0f5147af6226e1e8a9988a498d3a4/jetified-play-services-basement-16.0.1/res/values/values.xml",
+                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/7351c863440cd21c1ca8c6c13bea4f8e/coordinatorlayout-1.0.0/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,102,3,13",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,5935,116,724",
+                        "endLines": "2,104,12,101",
+                        "endColumns": "60,12,24,24",
+                        "endOffsets": "111,6075,719,5930"
+                    },
+                    "to": {
+                        "startLines": "2,69,79,89",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "105,4546,4989,5597",
+                        "endLines": "2,71,88,177",
+                        "endColumns": "60,12,24,24",
+                        "endOffsets": "161,4686,5592,10803"
+                    }
+                },
+                {
+                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/0bee18ea75479bbfc6271409f5e94296/jetified-play-services-basement-16.0.1/res/values/values.xml",
                     "from": {
                         "startLines": "4,7",
                         "startColumns": "0,0",
@@ -78,29 +78,10 @@
             ]
         },
         {
-            "outputFile": "/home/daniel/Documentos/Flutter/projeto_arboris/build/cloud_firestore_web/intermediates/res/merged/release/values/values.xml",
+            "outputFile": "/home/daniel/Documentos/arboris/build/cloud_firestore_web/intermediates/res/merged/release/values/values.xml",
             "map": [
                 {
-                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/d255798b3263f4a3c8e304b7de4de531/coordinatorlayout-1.0.0/res/values/values.xml",
-                    "from": {
-                        "startLines": "2,102,3,13",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,5935,116,724",
-                        "endLines": "2,104,12,101",
-                        "endColumns": "60,12,24,24",
-                        "endOffsets": "111,6075,719,5930"
-                    },
-                    "to": {
-                        "startLines": "2,69,79,89",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "105,4546,4989,5597",
-                        "endLines": "2,71,88,177",
-                        "endColumns": "60,12,24,24",
-                        "endOffsets": "161,4686,5592,10803"
-                    }
-                },
-                {
-                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/477e81a6102496b4df20cd2557cfcd3a/media-1.0.0/res/values/values.xml",
+                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/d5891aeebd64f384d1362c075a7101c7/media-1.0.0/res/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -117,7 +98,7 @@
                     }
                 },
                 {
-                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/c1da7862c7abb8e426855a3f78caf221/core-1.0.0/res/values/values.xml",
+                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/ce530c5b50dc774f16b6e9179ea6d25d/core-1.0.0/res/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,5,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,171,172,176,177,178,6,13,56,88,125",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -136,7 +117,26 @@
                     }
                 },
                 {
-                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/f3e0f5147af6226e1e8a9988a498d3a4/jetified-play-services-basement-16.0.1/res/values/values.xml",
+                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/7351c863440cd21c1ca8c6c13bea4f8e/coordinatorlayout-1.0.0/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,102,3,13",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,5935,116,724",
+                        "endLines": "2,104,12,101",
+                        "endColumns": "60,12,24,24",
+                        "endOffsets": "111,6075,719,5930"
+                    },
+                    "to": {
+                        "startLines": "2,69,79,89",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "105,4546,4989,5597",
+                        "endLines": "2,71,88,177",
+                        "endColumns": "60,12,24,24",
+                        "endOffsets": "161,4686,5592,10803"
+                    }
+                },
+                {
+                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/0bee18ea75479bbfc6271409f5e94296/jetified-play-services-basement-16.0.1/res/values/values.xml",
                     "from": {
                         "startLines": "4,7",
                         "startColumns": "0,0",

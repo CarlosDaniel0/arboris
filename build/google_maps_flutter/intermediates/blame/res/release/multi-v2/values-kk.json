@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/daniel/Documentos/Flutter/projeto_arboris/build/google_maps_flutter/intermediates/incremental/mergeReleaseResources/merged.dir/values-kk/values-kk.xml",
+            "outputFile": "/home/daniel/Documentos/arboris/build/google_maps_flutter/intermediates/incremental/mergeReleaseResources/merged.dir/values-kk/values-kk.xml",
             "map": [
                 {
-                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/4c0b774c09d5393feb013f0dbe753af3/play-services-base-17.0.0/res/values-kk/values.xml",
+                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/93131e36cbd141853f280b19c75d4cd9/play-services-base-17.0.0/res/values-kk/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/cba547dd4aee5f805242d85683f65e23/jetified-play-services-basement-17.0.0/res/values-kk/values.xml",
+                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/9bde3a809b4ff85408797d2a7e95d967/jetified-play-services-basement-17.0.0/res/values-kk/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -38,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/c1da7862c7abb8e426855a3f78caf221/core-1.0.0/res/values-kk/values-kk.xml",
+                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/ce530c5b50dc774f16b6e9179ea6d25d/core-1.0.0/res/values-kk/values-kk.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -57,10 +57,10 @@
             ]
         },
         {
-            "outputFile": "/home/daniel/Documentos/Flutter/projeto_arboris/build/google_maps_flutter/intermediates/res/merged/release/values-kk/values-kk.xml",
+            "outputFile": "/home/daniel/Documentos/arboris/build/google_maps_flutter/intermediates/res/merged/release/values-kk/values-kk.xml",
             "map": [
                 {
-                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/4c0b774c09d5393feb013f0dbe753af3/play-services-base-17.0.0/res/values-kk/values.xml",
+                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/93131e36cbd141853f280b19c75d4cd9/play-services-base-17.0.0/res/values-kk/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -77,7 +77,7 @@
                     }
                 },
                 {
-                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/cba547dd4aee5f805242d85683f65e23/jetified-play-services-basement-17.0.0/res/values-kk/values.xml",
+                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/9bde3a809b4ff85408797d2a7e95d967/jetified-play-services-basement-17.0.0/res/values-kk/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -94,7 +94,7 @@
                     }
                 },
                 {
-                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/c1da7862c7abb8e426855a3f78caf221/core-1.0.0/res/values-kk/values-kk.xml",
+                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/ce530c5b50dc774f16b6e9179ea6d25d/core-1.0.0/res/values-kk/values-kk.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

@@ -34,7 +34,7 @@ class _HomeState extends State<Home> {
 
     return Scaffold(
         appBar: AppBar(
-          title: Text("Arboris"),
+          title: Text("Arbóris"),
           centerTitle: true,
         ),
         
@@ -87,7 +87,9 @@ class _HomeState extends State<Home> {
           )
         ),
 
-        body: StreamBuilder(
+        body: 
+        
+        StreamBuilder(
           stream: _arvoresArmazenadas,
           builder: (context, snapshot) {
             if (snapshot.hasError) {

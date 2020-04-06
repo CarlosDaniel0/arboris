@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/daniel/Documentos/Flutter/projeto_arboris/build/firebase_core/intermediates/incremental/mergeReleaseResources/merged.dir/values-or/values-or.xml",
+            "outputFile": "/home/daniel/Documentos/arboris/build/firebase_core/intermediates/incremental/mergeReleaseResources/merged.dir/values-or/values-or.xml",
             "map": [
                 {
-                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/c1da7862c7abb8e426855a3f78caf221/core-1.0.0/res/values-or/values-or.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "304",
-                        "endColumns": "100",
-                        "endOffsets": "400"
-                    }
-                },
-                {
-                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/f3e0f5147af6226e1e8a9988a498d3a4/jetified-play-services-basement-16.0.1/res/values-or/values.xml",
+                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/0bee18ea75479bbfc6271409f5e94296/jetified-play-services-basement-16.0.1/res/values-or/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -35,32 +18,32 @@
                         "startOffsets": "105",
                         "endColumns": "198",
                         "endOffsets": "299"
+                    }
+                },
+                {
+                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/ce530c5b50dc774f16b6e9179ea6d25d/core-1.0.0/res/values-or/values-or.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "304",
+                        "endColumns": "100",
+                        "endOffsets": "400"
                     }
                 }
             ]
         },
         {
-            "outputFile": "/home/daniel/Documentos/Flutter/projeto_arboris/build/firebase_core/intermediates/res/merged/release/values-or/values-or.xml",
+            "outputFile": "/home/daniel/Documentos/arboris/build/firebase_core/intermediates/res/merged/release/values-or/values-or.xml",
             "map": [
                 {
-                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/c1da7862c7abb8e426855a3f78caf221/core-1.0.0/res/values-or/values-or.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "304",
-                        "endColumns": "100",
-                        "endOffsets": "400"
-                    }
-                },
-                {
-                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/f3e0f5147af6226e1e8a9988a498d3a4/jetified-play-services-basement-16.0.1/res/values-or/values.xml",
+                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/0bee18ea75479bbfc6271409f5e94296/jetified-play-services-basement-16.0.1/res/values-or/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -74,6 +57,23 @@
                         "startOffsets": "105",
                         "endColumns": "198",
                         "endOffsets": "299"
+                    }
+                },
+                {
+                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/ce530c5b50dc774f16b6e9179ea6d25d/core-1.0.0/res/values-or/values-or.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "304",
+                        "endColumns": "100",
+                        "endOffsets": "400"
                     }
                 }
             ]

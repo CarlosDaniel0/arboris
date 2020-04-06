@@ -1,18 +1,18 @@
 [
     {
-        "merged": "/home/daniel/Documentos/Flutter/projeto_arboris/build/location_permissions/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
-        "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/3aaf6e5219b7f981ec263df919098c6f/core-1.1.0/res/drawable/notification_tile_bg.xml"
+        "merged": "/home/daniel/Documentos/arboris/build/location_permissions/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/0a88e15c27fe8f45486868f55d363bed/core-1.1.0/res/drawable/notification_tile_bg.xml"
     },
     {
-        "merged": "/home/daniel/Documentos/Flutter/projeto_arboris/build/location_permissions/intermediates/res/merged/release/drawable/notification_bg_low.xml",
-        "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/3aaf6e5219b7f981ec263df919098c6f/core-1.1.0/res/drawable/notification_bg_low.xml"
+        "merged": "/home/daniel/Documentos/arboris/build/location_permissions/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/0a88e15c27fe8f45486868f55d363bed/core-1.1.0/res/drawable/notification_icon_background.xml"
     },
     {
-        "merged": "/home/daniel/Documentos/Flutter/projeto_arboris/build/location_permissions/intermediates/res/merged/release/drawable/notification_bg.xml",
-        "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/3aaf6e5219b7f981ec263df919098c6f/core-1.1.0/res/drawable/notification_bg.xml"
+        "merged": "/home/daniel/Documentos/arboris/build/location_permissions/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/0a88e15c27fe8f45486868f55d363bed/core-1.1.0/res/drawable/notification_bg.xml"
     },
     {
-        "merged": "/home/daniel/Documentos/Flutter/projeto_arboris/build/location_permissions/intermediates/res/merged/release/drawable/notification_icon_background.xml",
-        "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/3aaf6e5219b7f981ec263df919098c6f/core-1.1.0/res/drawable/notification_icon_background.xml"
+        "merged": "/home/daniel/Documentos/arboris/build/location_permissions/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/0a88e15c27fe8f45486868f55d363bed/core-1.1.0/res/drawable/notification_bg_low.xml"
     }
 ]
