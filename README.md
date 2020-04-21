@@ -9,7 +9,6 @@ O projeto ainda encontra-se em fase inicial por isso podem ocorrer alguns bugs.
 
 <div>
 <img src="https://i.imgur.com/no6xzrF.png" height="500">
-<img src="https://i.imgur.com/oWOwagz.png" height="500">
 <img src="https://i.imgur.com/8Z8zi38.png" height="500">
 </div>
 
