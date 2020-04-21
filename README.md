@@ -8,7 +8,7 @@ Esse é um projeto desenvolvido em colaboração dos alunos do curso Técnica em
 O projeto ainda encontra-se em fase inicial por isso podem ocorrer alguns bugs.
 
 <div>
-  <img src="https://lh5.googleusercontent.com/gtvHVNr-vA8fhW28qHO_IUirq48PIDP8nIUBl3jbs-E1f1AVsECIoOsp09g8-4gaoiVlQcXnmjLR8k6vrFHR=w1366-h608" height="500">
+  <img src="https://lh6.googleusercontent.com/wTiWscj2xgICN_tgh0RylGJwxvV6XuT0_Yy3y-Jcz9NOIhaVe-cNlmlzMuCFpVS24KsnmYxwB57S-IoMR1Fm=w1366-h608" height="500">
 
 <img src="https://lh4.googleusercontent.com/gUDqm__Tb1JQwz1CaSelCmnyBzdzu5LKYkg59FdjiYPSbBpVpneyOo7T3QobKokvmD7Ja3Bqhmh99ir23KaF=w1366-h608" height="500">
 
