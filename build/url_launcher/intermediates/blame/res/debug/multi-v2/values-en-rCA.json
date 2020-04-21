@@ -4,7 +4,7 @@
             "outputFile": "/home/daniel/Documentos/arboris/build/url_launcher/intermediates/res/merged/debug/values-en-rCA/values-en-rCA.xml",
             "map": [
                 {
-                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/ce530c5b50dc774f16b6e9179ea6d25d/core-1.0.0/res/values-en-rCA/values-en-rCA.xml",
+                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/1519f70cbcbf872fcd1d43e6bb1b4af9/core-1.0.0/res/values-en-rCA/values-en-rCA.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -19,7 +19,7 @@
             "outputFile": "/home/daniel/Documentos/arboris/build/url_launcher/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rCA/values-en-rCA.xml",
             "map": [
                 {
-                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/ce530c5b50dc774f16b6e9179ea6d25d/core-1.0.0/res/values-en-rCA/values-en-rCA.xml",
+                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/1519f70cbcbf872fcd1d43e6bb1b4af9/core-1.0.0/res/values-en-rCA/values-en-rCA.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

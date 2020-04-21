@@ -4,7 +4,7 @@
             "outputFile": "/home/daniel/Documentos/arboris/build/google_api_availability/intermediates/res/merged/release/values-tl/values-tl.xml",
             "map": [
                 {
-                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/6f5a09b4953ee13b34e15b87364445ea/core-1.2.0/res/values-tl/values-tl.xml",
+                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/35f29bb1a578f0319e9c3e21730b6b49/core-1.2.0/res/values-tl/values-tl.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/561677892c7566fe2fa190c2a3df237a/jetified-play-services-basement-17.2.1/res/values-tl/values.xml",
+                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/417d4fc74ca00e350fab7b438c4a34fc/jetified-play-services-basement-17.2.1/res/values-tl/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -38,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/3e048612d3799077421484434852ba6c/play-services-base-17.2.1/res/values-tl/values.xml",
+                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/c74e9d76b9181d3585ba58111e512b89/play-services-base-17.2.1/res/values-tl/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -60,7 +60,7 @@
             "outputFile": "/home/daniel/Documentos/arboris/build/google_api_availability/intermediates/incremental/mergeReleaseResources/merged.dir/values-tl/values-tl.xml",
             "map": [
                 {
-                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/6f5a09b4953ee13b34e15b87364445ea/core-1.2.0/res/values-tl/values-tl.xml",
+                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/35f29bb1a578f0319e9c3e21730b6b49/core-1.2.0/res/values-tl/values-tl.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -77,7 +77,7 @@
                     }
                 },
                 {
-                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/561677892c7566fe2fa190c2a3df237a/jetified-play-services-basement-17.2.1/res/values-tl/values.xml",
+                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/417d4fc74ca00e350fab7b438c4a34fc/jetified-play-services-basement-17.2.1/res/values-tl/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -94,7 +94,7 @@
                     }
                 },
                 {
-                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/3e048612d3799077421484434852ba6c/play-services-base-17.2.1/res/values-tl/values.xml",
+                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/c74e9d76b9181d3585ba58111e512b89/play-services-base-17.2.1/res/values-tl/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",

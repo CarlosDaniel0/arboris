@@ -45,7 +45,6 @@ class Descricao extends StatelessWidget {
           ) : Image.network(
                   fotos[0], 
                   fit: BoxFit.fill,
-                  filterQuality: FilterQuality.low,
                   loadingBuilder: (BuildContext context, Widget child, ImageChunkEvent loading) {
                     if (loading == null) return child;
                       return Center(

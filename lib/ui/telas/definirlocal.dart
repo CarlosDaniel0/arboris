@@ -1,16 +1,25 @@
 import 'package:flutter/material.dart';
-import 'package:google_maps_flutter/google_maps_flutter.dart';
+import 'package:flutter_map/flutter_map.dart';
+import 'package:latlong/latlong.dart';
 
 class DefinirLocal extends StatefulWidget {
+  DefinirLocal({Key key, @required this.local}) : super(key:key);
+  final LatLng local;
   @override
-  _DefinirLocalState createState() => _DefinirLocalState();
+  _DefinirLocalState createState() => _DefinirLocalState(posicao: local);
 }
 
 class _DefinirLocalState extends State<DefinirLocal> {
-  Set<Marker> _marker = Set();
-  GoogleMapController controller;
-  LatLng localizacao;
+  _DefinirLocalState({@required this.posicao});
+  final LatLng posicao;
+  LatLng definirLocal;
+  MapController mapController;
+  String mostrar;
 
+  @override
+  void initState() {
+    super.initState();
+    }
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -23,63 +32,83 @@ class _DefinirLocalState extends State<DefinirLocal> {
         child: Icon(Icons.add),
         onPressed: () {
           setState(() {
-            Navigator.pop(context);
+            Navigator.pop(context, definirLocal);
           });
         },
       ),
 
-      body: GoogleMap(
-        compassEnabled: true,
-        myLocationEnabled: true,
-        markers: _marker,
-        onTap: (latlng) {
-          setState(() {
-            Marker resultMarker = Marker(
-              markerId: MarkerId('marcador'),
-              position: LatLng(latlng.latitude,
-              latlng.longitude),
-            );
+      body: Stack(
+        children: <Widget>[
+          Container(
+            width: double.infinity,
+            height: double.infinity,
+            child: FlutterMap(
+              mapController: mapController,
+              options: MapOptions(
+                center: posicao,
+                zoom: 15.0,
+                maxZoom: 18.0,
+                onTap: (latlng) {
+                  setState(() {
+                    definirLocal = latlng;
+                  });
+                }
+              ),
+              layers: [
+                TileLayerOptions(
+                  urlTemplate: 'https://api.mapbox.com/styles/v1/carlosdaniel0/ck90ounvk0ff91iphmo4px8k7/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1IjoiY2FybG9zZGFuaWVsMCIsImEiOiJjazcyMjV4MTMwYnMxM2ZtaHZ3NHd0cDAyIn0.BupifLM_8QmbxYvJEWM7-w',
+                  additionalOptions: {
+                    'accessToken' : 'pk.eyJ1IjoiY2FybG9zZGFuaWVsMCIsImEiOiJjazcyMjV4MTMwYnMxM2ZtaHZ3NHd0cDAyIn0.BupifLM_8QmbxYvJEWM7-w',
+                    'id' : 'mapbox.mapbox-streets-v8'
+                  },
+                ),
+                MarkerLayerOptions(            
+                  markers: [
+                      definirLocal != null ? definirMarcador(definirLocal) : Marker() 
+                        ]
+                      ),
+                    ]
+                ),
+          ),
 
-            _marker.add(resultMarker);
-            localizacao = latlng;
-          });
-        },
-        onMapCreated: (control) {
-          controller = control;
-        },
-        initialCameraPosition: CameraPosition(
-          target: LatLng(-5.565041, -42.608059),
-          zoom: 15.5
-        ),
+          mostrar == null ? Align(
+            alignment: Alignment.topCenter,
+            child: Card(
+              child: ListTile(
+                leading: Icon(Icons.info_outline, color: Colors.blue),
+                title: Text("Dê um zoom para carregar o mapa. Clique no local onde está a árvore"),
+                trailing: GestureDetector(
+                  child: Icon(Icons.cancel, color: Colors.red),
+                  onTap: () {
+                    setState(() {
+                      mostrar = "nao";
+                    });
+                  },
+                  ),
+              ),
+            )
+          ) : Container()
+        ],
       )
     );
   }
 
-  // void mostrarMensagem(BuildContext context) {
-  //   var alert = AlertDialog(
-  //     title: Text("Terremotos"),
-  //     content: Text("Deseja definir o local selecionado?"),
-  //     actions: <Widget>[
-  //       FlatButton(
-  //         color: Colors.red,
-  //         onPressed: () => Navigator.pop(context),
-  //         child: Text(
-  //           "Cancelar"
-  //         ),
-  //       ),
-  //       FlatButton(
-  //         color: Colors.green,
-  //         onPressed: () => Navigator.pop(context),
-  //         child: Text(
-  //           "Confirmar"
-  //         ),
-  //       )
-  //     ],
-  //   );
-
-  //   showDialog(context: context, builder: (_){
-  //         return alert;
-  //       }
-  //     );
-  //   }
+  definirMarcador(LatLng local) {
+    return Marker(
+      width: 65.0,
+      height: 65.0,
+      point: local,
+      anchorPos: AnchorPos.align(AnchorAlign.top),
+      builder: (context) => Container(
+        child:
+          IconButton(
+              iconSize: 55,
+              icon: 
+              Icon(Icons.location_on, color: Colors.red),
+              // FaIcon(FontAwesomeIcons.tree, color: Colors.green), 
+              onPressed: () {
+              }),
+          ),
+      );
+  }
   }

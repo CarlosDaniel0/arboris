@@ -1,40 +1,39 @@
-import 'package:cloud_firestore/cloud_firestore.dart';
+import 'package:arboris/ui/telas/inicio.dart';
 import 'package:flutter/material.dart';
 import './telas/sobre.dart';
 import './telas/contribuir.dart';
 import './telas/sobre_o_app.dart';
-import 'package:google_maps_flutter/google_maps_flutter.dart';
-import 'dart:async';
-import 'descricao.dart';
+import 'package:flutter_map/flutter_map.dart';
 
 class Home extends StatefulWidget {
-  @override
-  _HomeState createState() => _HomeState();
+  Home({
+    Key key,
+    this.dados,
+    this.error
+  }):super(key:key);
+  final List dados;
+  final String error;
+  _HomeState createState() => _HomeState(dados: dados, error: error);
 }
+
+String ativo;
+String tituloApp = "Arbóris";
+int id;
+List<Marker> marcadores;
+
 class _HomeState extends State<Home> {
-  Stream<QuerySnapshot> _arvoresArmazenadas;
-  BitmapDescriptor pinLocationIcon;
-  @override
-  void initState() {
-    super.initState();
-    BitmapDescriptor.fromAssetImage(
-        ImageConfiguration(devicePixelRatio: 2.0),
-        'assets/icon.png').then((onValue) {
-      pinLocationIcon = onValue;
-    });
-
-    _arvoresArmazenadas = Firestore.instance
-      .collection("dados")
-      .orderBy("titulo")
-      .snapshots();
-  }
-
+  _HomeState({
+    this.dados,
+    this.error
+  });
+  final List dados;
+  final String error;
+  int _indicieSelecao = 0;
   @override
   Widget build(BuildContext context) {
-
     return Scaffold(
         appBar: AppBar(
-          title: Text("Arbóris"),
+          title: Text("$tituloApp"),
           centerTitle: true,
         ),
         
@@ -45,124 +44,75 @@ class _HomeState extends State<Home> {
             child: Column(
               children: <Widget>[
                 FlatButton(
+                  
                   onPressed: () {
-                    Navigator.push(
-                        context, MaterialPageRoute(
-                          builder: (context) => Sobre())
-                      );
+                    _selecionarItem(0, "Arbóris");
                   },
                   child: ListTile(
+                    selected: 0 == _indicieSelecao,
+                    title: Text("Início"),
+                    leading: Icon(Icons.home, color: 0 == _indicieSelecao ? Colors.green : Colors.blue),
+                  ),
+                ),
+                FlatButton(
+                  onPressed: () {
+                    _selecionarItem(1, "Sobre Nós");
+                  },
+                  child: ListTile(
+                    selected: 1 == _indicieSelecao,
                     title: Text("Sobre Nós"),
-                    leading: Icon(Icons.people, color: Colors.blue),
+                    leading: Icon(Icons.people, color: 1 == _indicieSelecao ? Colors.green : Colors.blue),
                   ),
                 ),
 
                 FlatButton(
                   onPressed: () {
-                    Navigator.push(
-                        context, MaterialPageRoute(
-                          builder: (context) => SobreOApp())
-                      );
+                    _selecionarItem(2, "Sobre o App");
                   },
                   child: ListTile(
+                    selected: 2 == _indicieSelecao,
                     title: Text("Sobre o App"),
-                    leading: Icon(Icons.info_outline, color: Colors.blue),
+                    leading: Icon(Icons.info_outline, color: 2 == _indicieSelecao ? Colors.green : Colors.blue),
                   ),
                 ),
 
                 FlatButton(
                   onPressed: () {
-                    Navigator.push(
-                        context, MaterialPageRoute(
-                          builder: (context) => Contribuir())
-                      );
+                    _selecionarItem(3, "Contribuir");
                   },
                   child: ListTile(
+                    selected: 3 == _indicieSelecao,
                     title: Text("Contribuir"),
-                    leading: Icon(Icons.add, color: Colors.blue),
+                    leading: Icon(Icons.add, color: 3 == _indicieSelecao ? Colors.green : Colors.blue),
                   ),
                 )           
               ],
             ),
           )
         ),
-
         body: 
-        
-        StreamBuilder(
-          stream: _arvoresArmazenadas,
-          builder: (context, snapshot) {
-            if (snapshot.hasError) {
-              return Center(child: Text("Erro: ${snapshot.error}"));
-            } 
-            if (!snapshot.hasData) {
-              return Center(
-                child:  CircularProgressIndicator(
-                  value: snapshot.data != null ? 
-                  snapshot.data.cumulativeBytesLoaded / snapshot.data.expectedTotalBytes : 
-                  null,
-              ));
-            }
-
-            return MapaArmazenado(
-                  documents: snapshot.data.documents,
-                  initialPosition: const LatLng(-5.565041, -42.608059),
-                  pinLocationIcon: pinLocationIcon,
-                );
-          })
+          _mostrarItem(_indicieSelecao)
       );
   }
-}
 
-class MapaArmazenado extends StatelessWidget {
-  const MapaArmazenado({
-    Key key,
-    
-    @required this.documents,
-    @required this.initialPosition,
-    @required this.pinLocationIcon
-  }) : super(key: key);
+  _selecionarItem(int index, String titulo) {
+    setState(() {
+      _indicieSelecao = index;
+      tituloApp = titulo;
+      });
+    Navigator.pop(context);
+  }
 
-  final List<DocumentSnapshot> documents;
-  final LatLng initialPosition;
-  final BitmapDescriptor pinLocationIcon;
-  @override
-  Widget build(BuildContext context) {
-    return GoogleMap(
-      compassEnabled: true,
-      onMapCreated: (GoogleMapController controller) {
-      },
-      initialCameraPosition: CameraPosition(
-        target: initialPosition,
-        zoom: 14.5
-      ),
-      markers: documents
-        .map((document) => Marker(
-          markerId: MarkerId("${document['idArvore']}"),
-          icon: pinLocationIcon,
-          position: LatLng(
-            document['localizacao'].latitude,
-            document['localizacao'].longitude
-          ),
-          infoWindow: InfoWindow(
-            onTap: () {
-              Navigator.push(
-                  context, MaterialPageRoute(builder: (context) => Descricao(
-                    titulo: document['titulo'],
-                    descricao: document['descricao'],
-                    fotos: document['fotos'],
-                    height: document['height'],
-                    fotografos: document['fotografos'],
-                    categoria: document['categoria'],
-                  ))
-                );
-            },
-            title: document['titulo'],
-            snippet: document['descricao']
-          )
-        )).toSet()
-    );
+  _mostrarItem(int pos) {
+    switch(pos) {
+      case 0:
+        return Inicio(dados: dados, error: error,);
+      case 1:
+        return Sobre();
+      case 2:
+        return SobreOApp();
+      case 3:
+        return Contribuir(id: dados != null ? dados.length + 1 : 0, error: error);
+    }
   }
 }
-
-

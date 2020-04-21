@@ -1,3 +1,4 @@
+import 'package:arboris/ui/util/navegar.dart';
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
@@ -5,13 +6,7 @@ import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 class SobreOApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(
-        title: Text("Sobre o App"),
-        centerTitle: true,
-      ),
-
-      body: Padding(
+    return Padding(
         padding: const EdgeInsets.all(12.0),
         child: ListView(
             children: <Widget>[
@@ -21,7 +16,7 @@ class SobreOApp extends StatelessWidget {
                 child: Card(
                   child: ListTile(
                     title: Text("Esse app utiliza a localização do usuário para mapear árvores, sendo o uso desses dados restritos apenas a essa finalidade. Informações sugeridas pelos colaboradores serão avaliadas pelos desenvolvedores antes de serem disponibilizadas no app."),
-                    subtitle: Text("Versão: 1.0"),
+                    subtitle: Text("Versão: 1.0.0"),
                   ),
                 ),
               ),
@@ -43,6 +38,9 @@ class SobreOApp extends StatelessWidget {
                     FlatButton(
                       color: Colors.red,
                       onPressed: () {
+                        // Navigator.push(context, MaterialPageRoute(
+                        //   builder: (context) => Navegador(url: "https://drive.google.com/drive/folders/1QuQ-9eSuAs0UYsxOFNTdGnxSXXHFJKuf")
+                        // ));
                         launch("https://drive.google.com/drive/folders/1QuQ-9eSuAs0UYsxOFNTdGnxSXXHFJKuf");
                       }, 
                       child: Text("Ver Imagens", style: TextStyle(color: Colors.white),))
@@ -67,7 +65,10 @@ class SobreOApp extends StatelessWidget {
                     FlatButton(
                       color: Colors.blue,
                       onPressed: () {
-                        launch("https://github.com/CarlosDaniel0/arboris");
+                        // launch("https://github.com/CarlosDaniel0/arboris");
+                        Navigator.push(context, MaterialPageRoute(
+                          builder: (context) => Navegador(url: "https://github.com/CarlosDaniel0/arboris")
+                        ));
                       }, 
                       child: Text("Ver Projeto", style: TextStyle(color: Colors.white),))
                   ),
@@ -113,7 +114,10 @@ class SobreOApp extends StatelessWidget {
                         color: Colors.green,
                         child: Text("Clique aqui", style: TextStyle(color: Colors.white)),
                         onPressed: () {
-                          launch("https://br.freepik.com/vetores-gratis/conjunto-de-design-de-arvore-diferente_3875712.htm#page=1&query=tree&position=26");
+                          // launch("https://br.freepik.com/vetores-gratis/conjunto-de-design-de-arvore-diferente_3875712.htm#page=1&query=tree&position=26");
+                          Navigator.push(context, MaterialPageRoute(
+                            builder: (context) => Navegador(url: "https://br.freepik.com/vetores-gratis/conjunto-de-design-de-arvore-diferente_3875712.htm#page=1&query=tree&position=26",))
+                            );
                         },
                     )
                   ),
@@ -121,8 +125,7 @@ class SobreOApp extends StatelessWidget {
               ),
             ],
           ),
-        )
-    );
+        );
   }
 
     _launchURL(String paraEmail, String assunto, String corpo) async {

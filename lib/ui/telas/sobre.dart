@@ -3,20 +3,14 @@ import 'package:flutter/material.dart';
 class Sobre extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(
-        centerTitle: true,
-        title: Text("Sobre Nós"),
-      ),
-
-      body: ListView(
+    return ListView(
         children: <Widget>[
           Padding(
             padding: const EdgeInsets.all(10.0),
             child: Card(
               child: ListTile(
                 title: Icon(Icons.people),
-                subtitle: Text("Este aplicativo é resultado de um projeto tecnológico desenvolvido pelo alunos do curso Técnico em Informática ofertado pela Secretaria de Educação do Estado do Piauí (SEDUC-PI) na cidade de Monsenhor Gil no período de 2018 à 2020.", style: texto()),
+                subtitle: Text("Este aplicativo é resultado de um projeto tecnológico desenvolvido pelos alunos do curso Técnico em Informática ofertado pela Secretaria de Educação do Estado do Piauí (SEDUC-PI) na cidade de Monsenhor Gil no período de 2018 à 2020.", style: texto()),
               ),
             ),
           ),
@@ -57,8 +51,7 @@ VANESSA FRANCISCA
             ),
           )
         ],
-      ),
-    );
+      );
   }
 
   TextStyle titulo() {

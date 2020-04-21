@@ -8,17 +8,17 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:763720830983:android:b7ed586c4b4cbd51f29aa2",
+        "mobilesdk_app_id": "1:763720830983:android:07d0710c10ef74b6f29aa2",
         "android_client_info": {
-          "package_name": "br.eco.arboris"
+          "package_name": "app.br.eco.arboris"
         }
       },
       "oauth_client": [
         {
-          "client_id": "763720830983-l88jsq36ljlltfjr1ggt02ig4j2ecv6m.apps.googleusercontent.com",
+          "client_id": "763720830983-7qk73bjj29ce85ee75rvkn78s8aj6tm2.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "br.eco.arboris",
+            "package_name": "app.br.eco.arboris",
             "certificate_hash": "63d770e2ef85f5442f17a6335bdefffeffe7d86c"
           }
         },
@@ -45,17 +45,17 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:763720830983:android:c546cfc42cb74a21f29aa2",
+        "mobilesdk_app_id": "1:763720830983:android:b7ed586c4b4cbd51f29aa2",
         "android_client_info": {
-          "package_name": "com.example.projeto_arboris"
+          "package_name": "br.eco.arboris"
         }
       },
       "oauth_client": [
         {
-          "client_id": "763720830983-8gj7v6f7kag6bdgn999t0eg4h2mohlk4.apps.googleusercontent.com",
+          "client_id": "763720830983-l88jsq36ljlltfjr1ggt02ig4j2ecv6m.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.example.projeto_arboris",
+            "package_name": "br.eco.arboris",
             "certificate_hash": "63d770e2ef85f5442f17a6335bdefffeffe7d86c"
           }
         },

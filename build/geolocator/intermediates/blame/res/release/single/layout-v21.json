@@ -1,18 +1,18 @@
 [
     {
         "merged": "/home/daniel/Documentos/arboris/build/geolocator/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
-        "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/6f5a09b4953ee13b34e15b87364445ea/core-1.2.0/res/layout-v21/notification_template_custom_big.xml"
+        "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/35f29bb1a578f0319e9c3e21730b6b49/core-1.2.0/res/layout-v21/notification_template_custom_big.xml"
     },
     {
         "merged": "/home/daniel/Documentos/arboris/build/geolocator/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
-        "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/6f5a09b4953ee13b34e15b87364445ea/core-1.2.0/res/layout-v21/notification_template_icon_group.xml"
+        "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/35f29bb1a578f0319e9c3e21730b6b49/core-1.2.0/res/layout-v21/notification_template_icon_group.xml"
     },
     {
         "merged": "/home/daniel/Documentos/arboris/build/geolocator/intermediates/res/merged/release/layout-v21/notification_action.xml",
-        "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/6f5a09b4953ee13b34e15b87364445ea/core-1.2.0/res/layout-v21/notification_action.xml"
+        "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/35f29bb1a578f0319e9c3e21730b6b49/core-1.2.0/res/layout-v21/notification_action.xml"
     },
     {
         "merged": "/home/daniel/Documentos/arboris/build/geolocator/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
-        "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/6f5a09b4953ee13b34e15b87364445ea/core-1.2.0/res/layout-v21/notification_action_tombstone.xml"
+        "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/35f29bb1a578f0319e9c3e21730b6b49/core-1.2.0/res/layout-v21/notification_action_tombstone.xml"
     }
 ]
