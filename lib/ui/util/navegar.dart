@@ -64,29 +64,14 @@ class _NavegadorState extends State<Navegador> {
           }, 
           child: Icon(Icons.close, color: Colors.white)),
       ),
-      body: Builder(
-        builder: (context) {
-          return WebView(
-            javascriptMode: JavascriptMode.unrestricted,
-            initialUrl: url,
-            onPageFinished: (texto) {
-
-            },
-            onWebViewCreated: (WebViewController webViewController) {
-                _controller.complete(webViewController);
-              },
-            navigationDelegate: (NavigationRequest request) {
-            if (request.url.startsWith('$url')) {
-              print('Bloquear navegação para $request}');
-              return NavigationDecision.prevent;
-            }
-            print('Permissão de navegação para $request');
-            return NavigationDecision.navigate;
+      body: WebView(
+        javascriptMode: JavascriptMode.unrestricted,
+        initialUrl: url,
+        onWebViewCreated: (WebViewController webViewController) {
+            _controller.complete(webViewController);
           },
-          gestureNavigationEnabled: true,
-          ); 
-        },
-      )
+      gestureNavigationEnabled: true,
+      ) 
     );
   }
 
