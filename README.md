@@ -8,6 +8,7 @@ Esse é um projeto desenvolvido em colaboração dos alunos do curso Técnica em
 O projeto ainda encontra-se em fase inicial por isso podem ocorrer alguns bugs.
 
 ![](https://lh5.googleusercontent.com/hC1sON1H0bbMA3IIY364xYkRFTAMY8w5Igx-vp1dZKYHe-0c-iLAlPwXoRlkSRREKymWDNbn2GyFWq47hoQG=w1366-h608)
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tecmundo.com.br%2Fwindows%2F101175-oficial-graca-aprenda-fazer-download-qualquer-iso-windows.htm&psig=AOvVaw1JrSGL5ekfJSW6ie0iRnyG&ust=1587594235189000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNCSx8bH-ugCFQAAAAAdAAAAABAD)
 
 ## Imagens utilizadas 
 
