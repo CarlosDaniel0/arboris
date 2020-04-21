@@ -1,7 +1,7 @@
-#Mon Apr 20 21:57:12 BRT 2020
-base.0=/home/daniel/Documentos/arboris/build/app/intermediates/dex/debug/out/classes.dex
+#Tue Apr 21 09:47:10 BRT 2020
+base.0=/home/daniel/Documentos/Flutter/arboris/build/app/intermediates/dex/debug/out/classes.dex
 path.1=classes2.dex
 renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
-base.1=/home/daniel/Documentos/arboris/build/app/intermediates/dex/debug/out/classes2.dex
+base.1=/home/daniel/Documentos/Flutter/arboris/build/app/intermediates/dex/debug/out/classes2.dex

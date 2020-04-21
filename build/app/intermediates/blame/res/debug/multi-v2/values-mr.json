@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/daniel/Documentos/arboris/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-mr/values-mr.xml",
+            "outputFile": "/home/daniel/Documentos/Flutter/arboris/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-mr/values-mr.xml",
             "map": [
                 {
                     "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/2a98964b1a7a52a1ba269561664871c8/jetified-play-services-base-17.2.1/res/values-mr/values.xml",

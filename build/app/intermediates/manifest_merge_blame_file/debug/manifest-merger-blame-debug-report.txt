@@ -12,11 +12,11 @@
 12         to allow setting breakpoints, to provide hot reload, etc.
 13    -->
 14    <uses-permission android:name="android.permission.INTERNET" />
-14-->/home/daniel/Documentos/arboris/android/app/src/debug/AndroidManifest.xml:6:5-66
-14-->/home/daniel/Documentos/arboris/android/app/src/debug/AndroidManifest.xml:6:22-64
+14-->/home/daniel/Documentos/Flutter/arboris/android/app/src/debug/AndroidManifest.xml:6:5-66
+14-->/home/daniel/Documentos/Flutter/arboris/android/app/src/debug/AndroidManifest.xml:6:22-64
 15    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-15-->[:geolocator] /home/daniel/Documentos/arboris/build/geolocator/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-79
-15-->[:geolocator] /home/daniel/Documentos/arboris/build/geolocator/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-76
+15-->[:geolocator] /home/daniel/Documentos/Flutter/arboris/build/geolocator/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-79
+15-->[:geolocator] /home/daniel/Documentos/Flutter/arboris/build/geolocator/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-76
 16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 16-->[com.google.android.gms:play-services-measurement-api:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/1826a194acbd3fc6470553ed939b8569/jetified-play-services-measurement-api-17.3.0/AndroidManifest.xml:23:5-79
 16-->[com.google.android.gms:play-services-measurement-api:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/1826a194acbd3fc6470553ed939b8569/jetified-play-services-measurement-api-17.3.0/AndroidManifest.xml:23:22-76
@@ -37,46 +37,46 @@
 25         FlutterApplication and put your custom class here.
 26    -->
 27    <application
-27-->/home/daniel/Documentos/arboris/android/app/src/main/AndroidManifest.xml:8:5-32:19
+27-->/home/daniel/Documentos/Flutter/arboris/android/app/src/main/AndroidManifest.xml:8:5-32:19
 28        android:name="io.flutter.app.FlutterApplication"
-28-->/home/daniel/Documentos/arboris/android/app/src/main/AndroidManifest.xml:9:9-57
+28-->/home/daniel/Documentos/Flutter/arboris/android/app/src/main/AndroidManifest.xml:9:9-57
 29        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 29-->[androidx.core:core:1.2.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/9bf6c53aed560b922f1970413da8f18f/core-1.2.0/AndroidManifest.xml:24:18-86
 30        android:debuggable="true"
 31        android:icon="@mipmap/ic_launcher"
-31-->/home/daniel/Documentos/arboris/android/app/src/main/AndroidManifest.xml:11:9-43
+31-->/home/daniel/Documentos/Flutter/arboris/android/app/src/main/AndroidManifest.xml:11:9-43
 32        android:label="Arbóris" >
-32-->/home/daniel/Documentos/arboris/android/app/src/main/AndroidManifest.xml:10:9-32
+32-->/home/daniel/Documentos/Flutter/arboris/android/app/src/main/AndroidManifest.xml:10:9-32
 33        <meta-data
-33-->/home/daniel/Documentos/arboris/android/app/src/main/AndroidManifest.xml:13:9-14:70
+33-->/home/daniel/Documentos/Flutter/arboris/android/app/src/main/AndroidManifest.xml:13:9-14:70
 34            android:name="com.google.android.geo.API_KEY"
-34-->/home/daniel/Documentos/arboris/android/app/src/main/AndroidManifest.xml:13:20-65
+34-->/home/daniel/Documentos/Flutter/arboris/android/app/src/main/AndroidManifest.xml:13:20-65
 35            android:value="AIzaSyDRR44uPsfHl0GMWYd7FsTPLuXEfHdKpRQ" />
-35-->/home/daniel/Documentos/arboris/android/app/src/main/AndroidManifest.xml:14:13-68
+35-->/home/daniel/Documentos/Flutter/arboris/android/app/src/main/AndroidManifest.xml:14:13-68
 36
 37        <activity
-37-->/home/daniel/Documentos/arboris/android/app/src/main/AndroidManifest.xml:15:9-26:20
+37-->/home/daniel/Documentos/Flutter/arboris/android/app/src/main/AndroidManifest.xml:15:9-26:20
 38            android:name="app.br.eco.arboris.MainActivity"
-38-->/home/daniel/Documentos/arboris/android/app/src/main/AndroidManifest.xml:16:13-41
+38-->/home/daniel/Documentos/Flutter/arboris/android/app/src/main/AndroidManifest.xml:16:13-41
 39            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
-39-->/home/daniel/Documentos/arboris/android/app/src/main/AndroidManifest.xml:19:13-163
+39-->/home/daniel/Documentos/Flutter/arboris/android/app/src/main/AndroidManifest.xml:19:13-163
 40            android:hardwareAccelerated="true"
-40-->/home/daniel/Documentos/arboris/android/app/src/main/AndroidManifest.xml:20:13-47
+40-->/home/daniel/Documentos/Flutter/arboris/android/app/src/main/AndroidManifest.xml:20:13-47
 41            android:launchMode="singleTop"
-41-->/home/daniel/Documentos/arboris/android/app/src/main/AndroidManifest.xml:17:13-43
+41-->/home/daniel/Documentos/Flutter/arboris/android/app/src/main/AndroidManifest.xml:17:13-43
 42            android:theme="@style/LaunchTheme"
-42-->/home/daniel/Documentos/arboris/android/app/src/main/AndroidManifest.xml:18:13-47
+42-->/home/daniel/Documentos/Flutter/arboris/android/app/src/main/AndroidManifest.xml:18:13-47
 43            android:windowSoftInputMode="adjustResize" >
-43-->/home/daniel/Documentos/arboris/android/app/src/main/AndroidManifest.xml:21:13-55
+43-->/home/daniel/Documentos/Flutter/arboris/android/app/src/main/AndroidManifest.xml:21:13-55
 44            <intent-filter>
-44-->/home/daniel/Documentos/arboris/android/app/src/main/AndroidManifest.xml:22:13-25:29
+44-->/home/daniel/Documentos/Flutter/arboris/android/app/src/main/AndroidManifest.xml:22:13-25:29
 45                <action android:name="android.intent.action.MAIN" />
-45-->/home/daniel/Documentos/arboris/android/app/src/main/AndroidManifest.xml:23:17-68
-45-->/home/daniel/Documentos/arboris/android/app/src/main/AndroidManifest.xml:23:25-66
+45-->/home/daniel/Documentos/Flutter/arboris/android/app/src/main/AndroidManifest.xml:23:17-68
+45-->/home/daniel/Documentos/Flutter/arboris/android/app/src/main/AndroidManifest.xml:23:25-66
 46
 47                <category android:name="android.intent.category.LAUNCHER" />
-47-->/home/daniel/Documentos/arboris/android/app/src/main/AndroidManifest.xml:24:17-76
-47-->/home/daniel/Documentos/arboris/android/app/src/main/AndroidManifest.xml:24:27-74
+47-->/home/daniel/Documentos/Flutter/arboris/android/app/src/main/AndroidManifest.xml:24:17-76
+47-->/home/daniel/Documentos/Flutter/arboris/android/app/src/main/AndroidManifest.xml:24:27-74
 48            </intent-filter>
 49        </activity>
 50        <!--
@@ -84,20 +84,20 @@
 52             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
 53        -->
 54        <meta-data
-54-->/home/daniel/Documentos/arboris/android/app/src/main/AndroidManifest.xml:29:9-31:33
+54-->/home/daniel/Documentos/Flutter/arboris/android/app/src/main/AndroidManifest.xml:29:9-31:33
 55            android:name="flutterEmbedding"
-55-->/home/daniel/Documentos/arboris/android/app/src/main/AndroidManifest.xml:30:13-44
+55-->/home/daniel/Documentos/Flutter/arboris/android/app/src/main/AndroidManifest.xml:30:13-44
 56            android:value="2" />
-56-->/home/daniel/Documentos/arboris/android/app/src/main/AndroidManifest.xml:31:13-30
+56-->/home/daniel/Documentos/Flutter/arboris/android/app/src/main/AndroidManifest.xml:31:13-30
 57
 58        <activity
-58-->[:url_launcher] /home/daniel/Documentos/arboris/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-11:74
+58-->[:url_launcher] /home/daniel/Documentos/Flutter/arboris/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-11:74
 59            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
-59-->[:url_launcher] /home/daniel/Documentos/arboris/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-74
+59-->[:url_launcher] /home/daniel/Documentos/Flutter/arboris/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-74
 60            android:exported="false"
-60-->[:url_launcher] /home/daniel/Documentos/arboris/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-37
+60-->[:url_launcher] /home/daniel/Documentos/Flutter/arboris/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-37
 61            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
-61-->[:url_launcher] /home/daniel/Documentos/arboris/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-71
+61-->[:url_launcher] /home/daniel/Documentos/Flutter/arboris/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-71
 62
 63        <service
 63-->[com.google.android.gms:play-services-measurement-api:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/1826a194acbd3fc6470553ed939b8569/jetified-play-services-measurement-api-17.3.0/AndroidManifest.xml:27:9-33:19

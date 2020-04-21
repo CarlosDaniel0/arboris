@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/daniel/Documentos/arboris/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-be/values-be.xml",
+            "outputFile": "/home/daniel/Documentos/Flutter/arboris/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-be/values-be.xml",
             "map": [
                 {
                     "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/9bf6c53aed560b922f1970413da8f18f/core-1.2.0/res/values-be/values-be.xml",
