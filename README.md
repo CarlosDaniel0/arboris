@@ -7,9 +7,7 @@ Mapeamento colaborativo
 Esse é um projeto desenvolvido em colaboração dos alunos do curso Técnica em Informática de Monsenhor Gil - PI,
 O projeto ainda encontra-se em fase inicial por isso podem ocorrer alguns bugs.
 
-![](https://lh5.googleusercontent.com/hC1sON1H0bbMA3IIY364xYkRFTAMY8w5Igx-vp1dZKYHe-0c-iLAlPwXoRlkSRREKymWDNbn2GyFWq47hoQG=w1366-h608)
-
-![](https://img.ibxk.com.br/2016/02/24/24120655953583.jpg?w=1120&h=420&mode=crop&scale=both)
+![Página Inicial](https://i.imgur.com/no6xzrF.png)
 
 ## Imagens utilizadas 
 
