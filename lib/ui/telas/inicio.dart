@@ -99,6 +99,7 @@ class _InicioState extends State<Inicio> {
                         Marker(
                       width: 65.0,
                       height: 65.0,
+                      anchorPos: AnchorPos.align(AnchorAlign.top),
                       point: LatLng(dados[i]['localizacao'][0], dados[i]['localizacao'][1]),
                       builder: (context) => Container(
                         child:

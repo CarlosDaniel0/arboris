@@ -1,4 +1,4 @@
-import 'package:arboris/ui/util/navegar.dart';
+import 'package:arboris/ui/util/navegador.dart';
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
@@ -16,7 +16,7 @@ class SobreOApp extends StatelessWidget {
                 child: Card(
                   child: ListTile(
                     title: Text("Esse app utiliza a localização do usuário para mapear árvores, sendo o uso desses dados restritos apenas a essa finalidade. Informações sugeridas pelos colaboradores serão avaliadas pelos desenvolvedores antes de serem disponibilizadas no app."),
-                    subtitle: Text("Versão: 1.0.0.14"),
+                    subtitle: Text("Versão: 1.0.0.15"),
                   ),
                 ),
               ),
