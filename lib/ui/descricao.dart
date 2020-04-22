@@ -35,6 +35,7 @@ class Descricao extends StatelessWidget {
             items: <Widget>[
               for (int i = 0; i < fotos.length; i++) 
                 PhotoView(
+                    filterQuality: FilterQuality.low,
                     imageProvider: NetworkImage(fotos[i]),
                   )
             ],
@@ -45,6 +46,7 @@ class Descricao extends StatelessWidget {
           ) : Image.network(
                   fotos[0], 
                   fit: BoxFit.fill,
+                  filterQuality: FilterQuality.low,
                   loadingBuilder: (BuildContext context, Widget child, ImageChunkEvent loading) {
                     if (loading == null) return child;
                       return Center(
