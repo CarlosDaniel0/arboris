@@ -23,6 +23,6 @@ Todas as imagens utilizadas estão disponíveis no Google Drive:
 ## Contribuir
 
 Deseja contribuir com o projeto baixe o app e mande sua sujestão na aba contribuir.
-Ou envie-nos um e-mail com dúvidas e sugestões. projetoarboris@gmail.com
+Ou envie-nos um e-mail com dúvidas e sugestões. <projetoarboris@gmail.com>
 
 > Google Play e o logotipo do Google Play são marcas registradas da Google LLC.
