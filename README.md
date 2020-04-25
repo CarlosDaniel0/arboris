@@ -11,6 +11,8 @@ O projeto ainda encontra-se em fase inicial por isso podem ocorrer alguns bugs.
 <img src="https://i.imgur.com/no6xzrF.png" height="500">
 <img src="https://i.imgur.com/8Z8zi38.png" height="500">
 </div>
+<br>
+<a href="https://play.google.com/store/apps/details?id=app.br.eco.arboris" target="_blank"><img alt="Disponível no Google Play" src="https://i.imgur.com/XzW5pwv.png" width="200"></a>
 
 ## Imagens utilizadas 
 
