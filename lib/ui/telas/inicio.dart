@@ -24,6 +24,7 @@ int id;
 List<Marker> marcadores;
 BorderRadius borda = BorderRadius.only(topLeft: Radius.circular(15), topRight: Radius.circular(15));
 PanelController controller;
+double _minHeight = 75;
 
 class _InicioState extends State<Inicio> {
   _InicioState({
@@ -255,7 +256,6 @@ class _InicioState extends State<Inicio> {
           ),
         ),
 
-        titulo != "" ? Info(id: id, dados: dados, titulo: titulo, informacao: informacao) : Container(),
         titulo != "" ? SlidingUpPanel(
           borderRadius: borda == BorderRadius.only(topLeft: Radius.circular(15), topRight: Radius.circular(15)) ? BorderRadius.only(topLeft: Radius.circular(15), topRight: Radius.circular(15)) : borda,
           parallaxEnabled: true,
@@ -282,7 +282,7 @@ class _InicioState extends State<Inicio> {
           ),
         ),
         Padding(
-          padding: const EdgeInsets.only(top: 15.0, bottom: 15),
+          padding: const EdgeInsets.only(top: 15.0, bottom: 20),
           child: Center(child: Text("$titulo", style: TextStyle(fontWeight: FontWeight.w500, fontSize: 20),)),
         ),
             ],
@@ -294,8 +294,8 @@ class _InicioState extends State<Inicio> {
           },
           panelBuilder: (sc) => 
               Descricao(
-              scrollController: sc,
               cx: context,
+              scrollController: sc,
               titulo: dados[id]['titulo'], 
               descricao: dados[id]['descricao'], 
               categoria: dados[id]['categoria'], 
@@ -303,7 +303,8 @@ class _InicioState extends State<Inicio> {
               fotos: dados[id]['fotos'], 
               fotografos: dados[id]['fotografos']),
           controller: controller,
-          minHeight: 75,
+          minHeight: _minHeight,
+          // maxHeight: (MediaQuery.of(context).size.height),
         )
         : Container(),
       ] 
@@ -311,64 +312,17 @@ class _InicioState extends State<Inicio> {
   }
 }
 
-class Info extends StatelessWidget {
-  const Info({
-    Key key,
-    @required this.id,
-    @required this.dados,
-    @required this.titulo,
-    @required this.informacao,
-  }) : super(key:key);
+TextStyle styleTitulo() {
+return TextStyle(
+  fontWeight: FontWeight.bold,
+  fontSize: 18,
+);
+}
 
-  final String titulo;
-  final String informacao;
-  final List dados;
-  final int id;
-  @override
-  Widget build(BuildContext context) {
-    return Padding(
-      padding: const EdgeInsets.all(8.0),
-      child: Align(
-        alignment: Alignment.bottomCenter,
-        child: Card(
-          child: GestureDetector(
-            onTap: () {
-              Navigator.push(context, MaterialPageRoute(builder: (context) =>
-                Descricao(
-                  titulo: dados[id]['titulo'], 
-                  descricao: dados[id]['descricao'], 
-                  categoria: dados[id]['categoria'], 
-                  height: dados[id]['height'], 
-                  fotos: dados[id]['fotos'], 
-                  fotografos: dados[id]['fotografos'])
-                ));
-            },
-            child: ListTile( 
-              // CircleAvatar(child: Image.asset("assets/icon.png")),
-              // FaIcon(FontAwesomeIcons.tree, color: Colors.green),
-              title: Text(titulo, style: styleTitulo(),),
-              subtitle: Text(informacao, style: styleSubtitulo(),),
-              trailing: Icon(Icons.arrow_forward, color: Colors.blue),
-              
-            ),
-          ),
-        ),
-      ),
-    );
-  }
-
-    TextStyle styleTitulo() {
-    return TextStyle(
-      fontWeight: FontWeight.bold,
-      fontSize: 18,
-    );
-  }
-
-  TextStyle styleSubtitulo() {
-    return TextStyle(
-      fontSize: 18,
-      fontWeight: FontWeight.normal,
-      color: Colors.black
-    );
-  }
+TextStyle styleSubtitulo() {
+return TextStyle(
+  fontSize: 18,
+  fontWeight: FontWeight.normal,
+  color: Colors.black
+);
 }

@@ -5,60 +5,74 @@ INJECTED from /home/daniel/Documentos/Flutter/arboris/android/app/src/main/Andro
 INJECTED from /home/daniel/Documentos/Flutter/arboris/android/app/src/main/AndroidManifest.xml:1:1-33:12
 INJECTED from /home/daniel/Documentos/Flutter/arboris/android/app/src/main/AndroidManifest.xml:1:1-33:12
 MERGED from /home/daniel/Documentos/Flutter/arboris/android/app/src/main/AndroidManifest.xml:1:1-33:12
+MERGED from [:cloud_firestore] /home/daniel/Documentos/Flutter/arboris/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:cloud_firestore_web] /home/daniel/Documentos/Flutter/arboris/build/cloud_firestore_web/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_core] /home/daniel/Documentos/Flutter/arboris/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_core_web] /home/daniel/Documentos/Flutter/arboris/build/firebase_core_web/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
 MERGED from [:geolocator] /home/daniel/Documentos/Flutter/arboris/build/geolocator/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:google_api_availability] /home/daniel/Documentos/Flutter/arboris/build/google_api_availability/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
 MERGED from [:sqflite] /home/daniel/Documentos/Flutter/arboris/build/sqflite/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
 MERGED from [:path_provider] /home/daniel/Documentos/Flutter/arboris/build/path_provider/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
 MERGED from [:path_provider_macos] /home/daniel/Documentos/Flutter/arboris/build/path_provider_macos/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:onesignal_flutter] /home/daniel/Documentos/Flutter/arboris/build/onesignal_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
 MERGED from [:url_launcher] /home/daniel/Documentos/Flutter/arboris/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
 MERGED from [:webview_flutter] /home/daniel/Documentos/Flutter/arboris/build/webview_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
 MERGED from [:location_permissions] /home/daniel/Documentos/Flutter/arboris/build/location_permissions/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
 MERGED from [:url_launcher_macos] /home/daniel/Documentos/Flutter/arboris/build/url_launcher_macos/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
 MERGED from [:url_launcher_web] /home/daniel/Documentos/Flutter/arboris/build/url_launcher_web/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.multidex:multidex:2.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/c67662611727f00201e4100063118db3/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.firebase:firebase-analytics:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/e67184aecdc41055f7a7d7fc165295a6/jetified-firebase-analytics-17.3.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-location:17.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/2e23c43d5ca5aca7844c993ba7fa8416/jetified-play-services-location-17.0.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/1826a194acbd3fc6470553ed939b8569/jetified-play-services-measurement-api-17.3.0/AndroidManifest.xml:17:1-36:12
-MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/600d77649b193b87c1f99b3fd592a3d1/jetified-firebase-iid-20.0.2/AndroidManifest.xml:17:1-47:12
-MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/67f16d544357b5da014775610c729df1/jetified-firebase-iid-interop-17.0.0/AndroidManifest.xml:2:1-10:12
-MERGED from [com.google.android.gms:play-services-base:17.2.1] /home/daniel/.gradle/caches/transforms-2/files-2.1/2a98964b1a7a52a1ba269561664871c8/jetified-play-services-base-17.2.1/AndroidManifest.xml:17:1-29:12
-MERGED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/fb6efdc00ccac645202c89214cce704b/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:17:1-55:12
-MERGED from [com.google.android.gms:play-services-measurement-sdk:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/b15fc31f76988e3d58826befc98aa7e0/jetified-play-services-measurement-sdk-17.3.0/AndroidManifest.xml:17:1-25:12
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/ffa84bcda7b9d4d225327de3a27a25e3/jetified-play-services-measurement-impl-17.3.0/AndroidManifest.xml:17:1-40:12
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/998a38c40349eb2b5d6d7853f8ef0455/jetified-play-services-measurement-sdk-api-17.3.0/AndroidManifest.xml:17:1-27:12
-MERGED from [com.google.android.gms:play-services-measurement-base:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/bcc4d7d449a88c2cc2c451e471624e1e/jetified-play-services-measurement-base-17.3.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/df21720c9447c052ec39841c5a403f0e/jetified-play-services-stats-17.0.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.firebase:firebase-common:19.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/f6d83ae07c6ed22216560405f400207e/jetified-firebase-common-19.3.0/AndroidManifest.xml:15:1-39:12
-MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/1ac2b874a08727efd686eff357d12103/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml:17:1-25:12
-MERGED from [com.google.android.gms:play-services-tasks:17.0.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/193cd8c46534a57279b7feb948a0bcb0/jetified-play-services-tasks-17.0.2/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/3fa74619744edc6ea48fba54c2f5edd0/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/c40240e7df59c346d5099de14de07051/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-basement:17.2.1] /home/daniel/.gradle/caches/transforms-2/files-2.1/3da34ed19e26943f1a00a36fd9209b0e/jetified-play-services-basement-17.2.1/AndroidManifest.xml:17:1-28:12
-MERGED from [androidx.fragment:fragment:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/a3bff216ae59908d66b9d9174e6fbd57/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.webkit:webkit:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/a7140486b183d7780e25263c9e0d0dfc/webkit-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/9303b57d19873612c0bd82e53a6d1c1c/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/84249623e4a74eef0ff2dce9323693c0/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/bc04edb8d5e1cbdd6305bf439208d557/loader-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/84e2b51fa545741eae90883b0d1d309c/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/1487b04cee441f0abf8bafd4960bcb15/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/b23200df64f972bb1d0fb43bbb04c4ba/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/ec2a95e275db986b5c4f091ea3dadce7/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/377d94a479e243940334e870f36b837b/customview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/7bb69c61a174a18410c57a44781fe929/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/bde81eb0bd25e23ef258c216c2356dc7/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.2.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/9bf6c53aed560b922f1970413da8f18f/core-1.2.0/AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/d2a14e2a300e4aee7cb2587e7ace61dd/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/b95911a41dc2bff1cf40f4162bafa3d1/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/b00482f59d57b202590ea77dffdfb14b/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/e6213c7b2f0d8e389002e21161862864/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/5550010a031f92ef5f220540404ad127/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/be5a28eb9d1e337c79b711ab533f9f7d/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
-MERGED from [com.google.firebase:firebase-components:16.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/71f8a4cea47381f01483b68c4d849509/jetified-firebase-components-16.0.0/AndroidManifest.xml:15:1-23:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/48f9d23095c927b7b2c2b437f03d3978/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/8b3f949af63a6327b19ee125fb4484a0/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/bb0c76d342d2b99b4eaf96fdf4065cfa/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/62283fe5d29ec395d220da2cca704391/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/08e1dbe02379a604d6209f3ee7bf494d/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.multidex:multidex:2.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/17b41d9b733b72eb5b7116736e23bc33/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-analytics:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/ef1df67025de5cf110c6f8445a62dcf0/jetified-firebase-analytics-17.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:2:1-106:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/f889a1b09c548140a60fedfca7b6430e/jetified-play-services-location-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/678e984f64d879f65c61ed69a7df981d/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/21e20f986fe2e17b3893e9e8a4e41a0b/jetified-firebase-auth-interop-18.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/a056ef1592d2d55c102333ca13d6ef9d/jetified-play-services-measurement-api-17.3.0/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/ae724d885ac391742f31c206c570c347/jetified-firebase-messaging-20.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/069ea62c472ec846c19ab8373d6e302a/jetified-firebase-iid-20.0.2/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/4f385a0f30a71bd102914f6009269739/jetified-firebase-iid-interop-17.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.2.1] /home/daniel/.gradle/caches/transforms-2/files-2.1/2712d05b8265e005fff085ea4746fac1/jetified-play-services-base-17.2.1/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/95d8b313eb24da732760fbd72efcb09e/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/3e29a59298c7ad161408f566dfdd03e1/jetified-play-services-measurement-sdk-17.3.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/84e14895839161359092fc60adf02bc9/jetified-firebase-common-19.3.0/AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/7fd6bde0ecc548a661b416b98cc3b5dc/jetified-play-services-measurement-impl-17.3.0/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/30588ba32b8ce68602f0611e026b0157/jetified-play-services-measurement-sdk-api-17.3.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/b40f052eb2725db8beb0e079afb212f2/jetified-play-services-measurement-base-17.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/01fbe702b4ac3e80ad778234e3e5f4dc/jetified-play-services-stats-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/c067e897245b375cfe7ba419a0d6c9ab/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/af7cfced671e037010781bdcd498efd0/jetified-play-services-tasks-17.0.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/2cb07bdf3a2695a37fb8093c58b7b982/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/ce3dce0785ef0f9fae9d7f80d153a06c/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.2.1] /home/daniel/.gradle/caches/transforms-2/files-2.1/e2bf145df02cb003302fd0f6fb02b042/jetified-play-services-basement-17.2.1/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/74c7064aa43a306dc9ec673e3ec4e43a/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.webkit:webkit:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/dc9c2d4a4e36311e3efb1ea9108ad0c2/webkit-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/4f461786be9cdea7170b545b8abc8a29/browser-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/96f461c0a9ecbfa0e10367d50c7af384/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/934af32f9ce9930717ff1261b5ab3616/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/df91a56ec250c3dff4edfdffec667ea8/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/b2984781c5127aec543ccdc84eaf5bf8/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/3d1437d33648a669afa64feef885ebeb/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/27ce63556ced46c5408965fa4e04194e/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/47246ad9ab15aeed2551d8e4370e90fc/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/fb738ec4b037460af167e21a13b0d387/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/9c3bba4e88718c1986e47a93cb746faa/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/f7473fa632ee8092c2745a4ed2912acd/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.2.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/bb2ee2500cbb9418088545a9e6368078/core-1.2.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/590fe9c707a9dc1f4f8d4f72ecb01776/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/f7445f31cfda339dd60809aee98fd19c/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/5988575caf479c66db34be4cfb919358/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/14023248e44f8ca3f560a1e97ad79aae/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/044c3ddb8b68f9a3d9588039df07687b/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/dac91c6ae775e97626d71b96ead666f2/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/8f47bd0764ff3c356dbe76623ae543e5/jetified-firebase-components-16.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/46759775a8a5336c2deb4c2949601d3a/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/1d5bf59c47d7258521188e8ea9df105c/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/0dde20eaa9303437c2798faa88e3a315/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/1475aa7afaea788c0dbf27b39a00a8bd/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/f17771748e189c29d6616533332bb6e0/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/1dde5755a96af1495e00171cf7a2edbc/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/bf5dd4ad9e1ab76b533c7f19d891d6dd/jetified-firebase-database-collection-17.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/865b7a8fa03ddb50a4c9dd76c67b621b/jetified-protolite-well-known-types-17.0.0/AndroidManifest.xml:2:1-11:12
+MERGED from [io.grpc:grpc-android:1.21.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/8332f0557055981b3423486e9d316403/jetified-grpc-android-1.21.0/AndroidManifest.xml:2:1-13:12
 INJECTED from /home/daniel/Documentos/Flutter/arboris/android/app/src/debug/AndroidManifest.xml:1:1-7:12
 INJECTED from /home/daniel/Documentos/Flutter/arboris/android/app/src/debug/AndroidManifest.xml:1:1-7:12
 INJECTED from /home/daniel/Documentos/Flutter/arboris/android/app/src/debug/AndroidManifest.xml:1:1-7:12
@@ -78,48 +92,60 @@ INJECTED from /home/daniel/Documentos/Flutter/arboris/android/app/src/debug/Andr
 		ADDED from /home/daniel/Documentos/Flutter/arboris/android/app/src/main/AndroidManifest.xml:1:11-69
 application
 ADDED from /home/daniel/Documentos/Flutter/arboris/android/app/src/main/AndroidManifest.xml:8:5-32:19
+MERGED from [:cloud_firestore] /home/daniel/Documentos/Flutter/arboris/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:cloud_firestore] /home/daniel/Documentos/Flutter/arboris/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] /home/daniel/Documentos/Flutter/arboris/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] /home/daniel/Documentos/Flutter/arboris/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
 MERGED from [:url_launcher] /home/daniel/Documentos/Flutter/arboris/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-12:19
 MERGED from [:url_launcher] /home/daniel/Documentos/Flutter/arboris/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-12:19
-MERGED from [com.google.firebase:firebase-analytics:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/e67184aecdc41055f7a7d7fc165295a6/jetified-firebase-analytics-17.3.0/AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-analytics:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/e67184aecdc41055f7a7d7fc165295a6/jetified-firebase-analytics-17.3.0/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-location:17.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/2e23c43d5ca5aca7844c993ba7fa8416/jetified-play-services-location-17.0.0/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-location:17.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/2e23c43d5ca5aca7844c993ba7fa8416/jetified-play-services-location-17.0.0/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/1826a194acbd3fc6470553ed939b8569/jetified-play-services-measurement-api-17.3.0/AndroidManifest.xml:26:5-34:19
-MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/1826a194acbd3fc6470553ed939b8569/jetified-play-services-measurement-api-17.3.0/AndroidManifest.xml:26:5-34:19
-MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/600d77649b193b87c1f99b3fd592a3d1/jetified-firebase-iid-20.0.2/AndroidManifest.xml:28:5-45:19
-MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/600d77649b193b87c1f99b3fd592a3d1/jetified-firebase-iid-20.0.2/AndroidManifest.xml:28:5-45:19
-MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/67f16d544357b5da014775610c729df1/jetified-firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/67f16d544357b5da014775610c729df1/jetified-firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.android.gms:play-services-base:17.2.1] /home/daniel/.gradle/caches/transforms-2/files-2.1/2a98964b1a7a52a1ba269561664871c8/jetified-play-services-base-17.2.1/AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-base:17.2.1] /home/daniel/.gradle/caches/transforms-2/files-2.1/2a98964b1a7a52a1ba269561664871c8/jetified-play-services-base-17.2.1/AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/fb6efdc00ccac645202c89214cce704b/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:28:5-53:19
-MERGED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/fb6efdc00ccac645202c89214cce704b/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:28:5-53:19
-MERGED from [com.google.android.gms:play-services-measurement-sdk:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/b15fc31f76988e3d58826befc98aa7e0/jetified-play-services-measurement-sdk-17.3.0/AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.android.gms:play-services-measurement-sdk:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/b15fc31f76988e3d58826befc98aa7e0/jetified-play-services-measurement-sdk-17.3.0/AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/ffa84bcda7b9d4d225327de3a27a25e3/jetified-play-services-measurement-impl-17.3.0/AndroidManifest.xml:28:5-38:19
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/ffa84bcda7b9d4d225327de3a27a25e3/jetified-play-services-measurement-impl-17.3.0/AndroidManifest.xml:28:5-38:19
-MERGED from [com.google.android.gms:play-services-measurement-base:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/bcc4d7d449a88c2cc2c451e471624e1e/jetified-play-services-measurement-base-17.3.0/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-measurement-base:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/bcc4d7d449a88c2cc2c451e471624e1e/jetified-play-services-measurement-base-17.3.0/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/df21720c9447c052ec39841c5a403f0e/jetified-play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/df21720c9447c052ec39841c5a403f0e/jetified-play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-common:19.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/f6d83ae07c6ed22216560405f400207e/jetified-firebase-common-19.3.0/AndroidManifest.xml:25:5-37:19
-MERGED from [com.google.firebase:firebase-common:19.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/f6d83ae07c6ed22216560405f400207e/jetified-firebase-common-19.3.0/AndroidManifest.xml:25:5-37:19
-MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/1ac2b874a08727efd686eff357d12103/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/1ac2b874a08727efd686eff357d12103/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.android.gms:play-services-tasks:17.0.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/193cd8c46534a57279b7feb948a0bcb0/jetified-play-services-tasks-17.0.2/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-tasks:17.0.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/193cd8c46534a57279b7feb948a0bcb0/jetified-play-services-tasks-17.0.2/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/3fa74619744edc6ea48fba54c2f5edd0/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/3fa74619744edc6ea48fba54c2f5edd0/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/c40240e7df59c346d5099de14de07051/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/c40240e7df59c346d5099de14de07051/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-basement:17.2.1] /home/daniel/.gradle/caches/transforms-2/files-2.1/3da34ed19e26943f1a00a36fd9209b0e/jetified-play-services-basement-17.2.1/AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-basement:17.2.1] /home/daniel/.gradle/caches/transforms-2/files-2.1/3da34ed19e26943f1a00a36fd9209b0e/jetified-play-services-basement-17.2.1/AndroidManifest.xml:22:5-26:19
-MERGED from [androidx.core:core:1.2.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/9bf6c53aed560b922f1970413da8f18f/core-1.2.0/AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.2.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/9bf6c53aed560b922f1970413da8f18f/core-1.2.0/AndroidManifest.xml:24:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/be5a28eb9d1e337c79b711ab533f9f7d/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/be5a28eb9d1e337c79b711ab533f9f7d/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.firebase:firebase-analytics:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/ef1df67025de5cf110c6f8445a62dcf0/jetified-firebase-analytics-17.3.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/ef1df67025de5cf110c6f8445a62dcf0/jetified-firebase-analytics-17.3.0/AndroidManifest.xml:7:5-20
+MERGED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:48:5-104:19
+MERGED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:48:5-104:19
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/f889a1b09c548140a60fedfca7b6430e/jetified-play-services-location-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/f889a1b09c548140a60fedfca7b6430e/jetified-play-services-location-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/678e984f64d879f65c61ed69a7df981d/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/678e984f64d879f65c61ed69a7df981d/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/21e20f986fe2e17b3893e9e8a4e41a0b/jetified-firebase-auth-interop-18.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/21e20f986fe2e17b3893e9e8a4e41a0b/jetified-firebase-auth-interop-18.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/a056ef1592d2d55c102333ca13d6ef9d/jetified-play-services-measurement-api-17.3.0/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/a056ef1592d2d55c102333ca13d6ef9d/jetified-play-services-measurement-api-17.3.0/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/ae724d885ac391742f31c206c570c347/jetified-firebase-messaging-20.0.0/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/ae724d885ac391742f31c206c570c347/jetified-firebase-messaging-20.0.0/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/069ea62c472ec846c19ab8373d6e302a/jetified-firebase-iid-20.0.2/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/069ea62c472ec846c19ab8373d6e302a/jetified-firebase-iid-20.0.2/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/4f385a0f30a71bd102914f6009269739/jetified-firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/4f385a0f30a71bd102914f6009269739/jetified-firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.2.1] /home/daniel/.gradle/caches/transforms-2/files-2.1/2712d05b8265e005fff085ea4746fac1/jetified-play-services-base-17.2.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.2.1] /home/daniel/.gradle/caches/transforms-2/files-2.1/2712d05b8265e005fff085ea4746fac1/jetified-play-services-base-17.2.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/95d8b313eb24da732760fbd72efcb09e/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/95d8b313eb24da732760fbd72efcb09e/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/3e29a59298c7ad161408f566dfdd03e1/jetified-play-services-measurement-sdk-17.3.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/3e29a59298c7ad161408f566dfdd03e1/jetified-play-services-measurement-sdk-17.3.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/84e14895839161359092fc60adf02bc9/jetified-firebase-common-19.3.0/AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/84e14895839161359092fc60adf02bc9/jetified-firebase-common-19.3.0/AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/7fd6bde0ecc548a661b416b98cc3b5dc/jetified-play-services-measurement-impl-17.3.0/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/7fd6bde0ecc548a661b416b98cc3b5dc/jetified-play-services-measurement-impl-17.3.0/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-base:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/b40f052eb2725db8beb0e079afb212f2/jetified-play-services-measurement-base-17.3.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/b40f052eb2725db8beb0e079afb212f2/jetified-play-services-measurement-base-17.3.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/01fbe702b4ac3e80ad778234e3e5f4dc/jetified-play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/01fbe702b4ac3e80ad778234e3e5f4dc/jetified-play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/c067e897245b375cfe7ba419a0d6c9ab/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/c067e897245b375cfe7ba419a0d6c9ab/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/af7cfced671e037010781bdcd498efd0/jetified-play-services-tasks-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/af7cfced671e037010781bdcd498efd0/jetified-play-services-tasks-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/2cb07bdf3a2695a37fb8093c58b7b982/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/2cb07bdf3a2695a37fb8093c58b7b982/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/ce3dce0785ef0f9fae9d7f80d153a06c/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/ce3dce0785ef0f9fae9d7f80d153a06c/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.2.1] /home/daniel/.gradle/caches/transforms-2/files-2.1/e2bf145df02cb003302fd0f6fb02b042/jetified-play-services-basement-17.2.1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.2.1] /home/daniel/.gradle/caches/transforms-2/files-2.1/e2bf145df02cb003302fd0f6fb02b042/jetified-play-services-basement-17.2.1/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.2.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/bb2ee2500cbb9418088545a9e6368078/core-1.2.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/bb2ee2500cbb9418088545a9e6368078/core-1.2.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/dac91c6ae775e97626d71b96ead666f2/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/dac91c6ae775e97626d71b96ead666f2/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.2.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/9bf6c53aed560b922f1970413da8f18f/core-1.2.0/AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.2.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/bb2ee2500cbb9418088545a9e6368078/core-1.2.0/AndroidManifest.xml:24:18-86
 	android:label
 		ADDED from /home/daniel/Documentos/Flutter/arboris/android/app/src/main/AndroidManifest.xml:10:9-32
 	android:icon
@@ -166,6 +192,14 @@ uses-sdk
 INJECTED from /home/daniel/Documentos/Flutter/arboris/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/daniel/Documentos/Flutter/arboris/android/app/src/main/AndroidManifest.xml
 INJECTED from /home/daniel/Documentos/Flutter/arboris/android/app/src/main/AndroidManifest.xml
+MERGED from [:cloud_firestore] /home/daniel/Documentos/Flutter/arboris/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] /home/daniel/Documentos/Flutter/arboris/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore_web] /home/daniel/Documentos/Flutter/arboris/build/cloud_firestore_web/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore_web] /home/daniel/Documentos/Flutter/arboris/build/cloud_firestore_web/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /home/daniel/Documentos/Flutter/arboris/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /home/daniel/Documentos/Flutter/arboris/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core_web] /home/daniel/Documentos/Flutter/arboris/build/firebase_core_web/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core_web] /home/daniel/Documentos/Flutter/arboris/build/firebase_core_web/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:geolocator] /home/daniel/Documentos/Flutter/arboris/build/geolocator/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:geolocator] /home/daniel/Documentos/Flutter/arboris/build/geolocator/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:google_api_availability] /home/daniel/Documentos/Flutter/arboris/build/google_api_availability/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
@@ -176,6 +210,8 @@ MERGED from [:path_provider] /home/daniel/Documentos/Flutter/arboris/build/path_
 MERGED from [:path_provider] /home/daniel/Documentos/Flutter/arboris/build/path_provider/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:path_provider_macos] /home/daniel/Documentos/Flutter/arboris/build/path_provider_macos/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:path_provider_macos] /home/daniel/Documentos/Flutter/arboris/build/path_provider_macos/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:onesignal_flutter] /home/daniel/Documentos/Flutter/arboris/build/onesignal_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:onesignal_flutter] /home/daniel/Documentos/Flutter/arboris/build/onesignal_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:url_launcher] /home/daniel/Documentos/Flutter/arboris/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:url_launcher] /home/daniel/Documentos/Flutter/arboris/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:webview_flutter] /home/daniel/Documentos/Flutter/arboris/build/webview_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
@@ -186,94 +222,112 @@ MERGED from [:url_launcher_macos] /home/daniel/Documentos/Flutter/arboris/build/
 MERGED from [:url_launcher_macos] /home/daniel/Documentos/Flutter/arboris/build/url_launcher_macos/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:url_launcher_web] /home/daniel/Documentos/Flutter/arboris/build/url_launcher_web/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:url_launcher_web] /home/daniel/Documentos/Flutter/arboris/build/url_launcher_web/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [androidx.multidex:multidex:2.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/c67662611727f00201e4100063118db3/multidex-2.0.0/AndroidManifest.xml:20:5-43
-MERGED from [androidx.multidex:multidex:2.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/c67662611727f00201e4100063118db3/multidex-2.0.0/AndroidManifest.xml:20:5-43
-MERGED from [com.google.firebase:firebase-analytics:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/e67184aecdc41055f7a7d7fc165295a6/jetified-firebase-analytics-17.3.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-analytics:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/e67184aecdc41055f7a7d7fc165295a6/jetified-firebase-analytics-17.3.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-location:17.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/2e23c43d5ca5aca7844c993ba7fa8416/jetified-play-services-location-17.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-location:17.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/2e23c43d5ca5aca7844c993ba7fa8416/jetified-play-services-location-17.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/1826a194acbd3fc6470553ed939b8569/jetified-play-services-measurement-api-17.3.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/1826a194acbd3fc6470553ed939b8569/jetified-play-services-measurement-api-17.3.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/600d77649b193b87c1f99b3fd592a3d1/jetified-firebase-iid-20.0.2/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/600d77649b193b87c1f99b3fd592a3d1/jetified-firebase-iid-20.0.2/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/67f16d544357b5da014775610c729df1/jetified-firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/67f16d544357b5da014775610c729df1/jetified-firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-base:17.2.1] /home/daniel/.gradle/caches/transforms-2/files-2.1/2a98964b1a7a52a1ba269561664871c8/jetified-play-services-base-17.2.1/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:17.2.1] /home/daniel/.gradle/caches/transforms-2/files-2.1/2a98964b1a7a52a1ba269561664871c8/jetified-play-services-base-17.2.1/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/fb6efdc00ccac645202c89214cce704b/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/fb6efdc00ccac645202c89214cce704b/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/b15fc31f76988e3d58826befc98aa7e0/jetified-play-services-measurement-sdk-17.3.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/b15fc31f76988e3d58826befc98aa7e0/jetified-play-services-measurement-sdk-17.3.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/ffa84bcda7b9d4d225327de3a27a25e3/jetified-play-services-measurement-impl-17.3.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/ffa84bcda7b9d4d225327de3a27a25e3/jetified-play-services-measurement-impl-17.3.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/998a38c40349eb2b5d6d7853f8ef0455/jetified-play-services-measurement-sdk-api-17.3.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/998a38c40349eb2b5d6d7853f8ef0455/jetified-play-services-measurement-sdk-api-17.3.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-base:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/bcc4d7d449a88c2cc2c451e471624e1e/jetified-play-services-measurement-base-17.3.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-measurement-base:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/bcc4d7d449a88c2cc2c451e471624e1e/jetified-play-services-measurement-base-17.3.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/df21720c9447c052ec39841c5a403f0e/jetified-play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/df21720c9447c052ec39841c5a403f0e/jetified-play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-common:19.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/f6d83ae07c6ed22216560405f400207e/jetified-firebase-common-19.3.0/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.firebase:firebase-common:19.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/f6d83ae07c6ed22216560405f400207e/jetified-firebase-common-19.3.0/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/1ac2b874a08727efd686eff357d12103/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/1ac2b874a08727efd686eff357d12103/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-tasks:17.0.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/193cd8c46534a57279b7feb948a0bcb0/jetified-play-services-tasks-17.0.2/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-tasks:17.0.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/193cd8c46534a57279b7feb948a0bcb0/jetified-play-services-tasks-17.0.2/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/3fa74619744edc6ea48fba54c2f5edd0/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/3fa74619744edc6ea48fba54c2f5edd0/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/c40240e7df59c346d5099de14de07051/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/c40240e7df59c346d5099de14de07051/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:17.2.1] /home/daniel/.gradle/caches/transforms-2/files-2.1/3da34ed19e26943f1a00a36fd9209b0e/jetified-play-services-basement-17.2.1/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:17.2.1] /home/daniel/.gradle/caches/transforms-2/files-2.1/3da34ed19e26943f1a00a36fd9209b0e/jetified-play-services-basement-17.2.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/a3bff216ae59908d66b9d9174e6fbd57/fragment-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/a3bff216ae59908d66b9d9174e6fbd57/fragment-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.webkit:webkit:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/a7140486b183d7780e25263c9e0d0dfc/webkit-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.webkit:webkit:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/a7140486b183d7780e25263c9e0d0dfc/webkit-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/9303b57d19873612c0bd82e53a6d1c1c/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/9303b57d19873612c0bd82e53a6d1c1c/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/84249623e4a74eef0ff2dce9323693c0/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/84249623e4a74eef0ff2dce9323693c0/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/bc04edb8d5e1cbdd6305bf439208d557/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/bc04edb8d5e1cbdd6305bf439208d557/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/84e2b51fa545741eae90883b0d1d309c/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/84e2b51fa545741eae90883b0d1d309c/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/1487b04cee441f0abf8bafd4960bcb15/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/1487b04cee441f0abf8bafd4960bcb15/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/b23200df64f972bb1d0fb43bbb04c4ba/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/b23200df64f972bb1d0fb43bbb04c4ba/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/ec2a95e275db986b5c4f091ea3dadce7/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/ec2a95e275db986b5c4f091ea3dadce7/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/377d94a479e243940334e870f36b837b/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/377d94a479e243940334e870f36b837b/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/7bb69c61a174a18410c57a44781fe929/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/7bb69c61a174a18410c57a44781fe929/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/bde81eb0bd25e23ef258c216c2356dc7/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/bde81eb0bd25e23ef258c216c2356dc7/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.2.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/9bf6c53aed560b922f1970413da8f18f/core-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.2.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/9bf6c53aed560b922f1970413da8f18f/core-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/d2a14e2a300e4aee7cb2587e7ace61dd/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/d2a14e2a300e4aee7cb2587e7ace61dd/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/b95911a41dc2bff1cf40f4162bafa3d1/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/b95911a41dc2bff1cf40f4162bafa3d1/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/b00482f59d57b202590ea77dffdfb14b/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/b00482f59d57b202590ea77dffdfb14b/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/e6213c7b2f0d8e389002e21161862864/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/e6213c7b2f0d8e389002e21161862864/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/5550010a031f92ef5f220540404ad127/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/5550010a031f92ef5f220540404ad127/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/be5a28eb9d1e337c79b711ab533f9f7d/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/be5a28eb9d1e337c79b711ab533f9f7d/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.firebase:firebase-components:16.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/71f8a4cea47381f01483b68c4d849509/jetified-firebase-components-16.0.0/AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.firebase:firebase-components:16.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/71f8a4cea47381f01483b68c4d849509/jetified-firebase-components-16.0.0/AndroidManifest.xml:19:5-21:41
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/48f9d23095c927b7b2c2b437f03d3978/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/48f9d23095c927b7b2c2b437f03d3978/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/8b3f949af63a6327b19ee125fb4484a0/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/8b3f949af63a6327b19ee125fb4484a0/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/bb0c76d342d2b99b4eaf96fdf4065cfa/documentfile-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/bb0c76d342d2b99b4eaf96fdf4065cfa/documentfile-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/62283fe5d29ec395d220da2cca704391/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/62283fe5d29ec395d220da2cca704391/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/08e1dbe02379a604d6209f3ee7bf494d/print-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/08e1dbe02379a604d6209f3ee7bf494d/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.multidex:multidex:2.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/17b41d9b733b72eb5b7116736e23bc33/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/17b41d9b733b72eb5b7116736e23bc33/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-analytics:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/ef1df67025de5cf110c6f8445a62dcf0/jetified-firebase-analytics-17.3.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/ef1df67025de5cf110c6f8445a62dcf0/jetified-firebase-analytics-17.3.0/AndroidManifest.xml:5:5-44
+MERGED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:4:5-44
+MERGED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/f889a1b09c548140a60fedfca7b6430e/jetified-play-services-location-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/f889a1b09c548140a60fedfca7b6430e/jetified-play-services-location-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/678e984f64d879f65c61ed69a7df981d/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/678e984f64d879f65c61ed69a7df981d/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/21e20f986fe2e17b3893e9e8a4e41a0b/jetified-firebase-auth-interop-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/21e20f986fe2e17b3893e9e8a4e41a0b/jetified-firebase-auth-interop-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/a056ef1592d2d55c102333ca13d6ef9d/jetified-play-services-measurement-api-17.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/a056ef1592d2d55c102333ca13d6ef9d/jetified-play-services-measurement-api-17.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/ae724d885ac391742f31c206c570c347/jetified-firebase-messaging-20.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/ae724d885ac391742f31c206c570c347/jetified-firebase-messaging-20.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/069ea62c472ec846c19ab8373d6e302a/jetified-firebase-iid-20.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/069ea62c472ec846c19ab8373d6e302a/jetified-firebase-iid-20.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/4f385a0f30a71bd102914f6009269739/jetified-firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/4f385a0f30a71bd102914f6009269739/jetified-firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.2.1] /home/daniel/.gradle/caches/transforms-2/files-2.1/2712d05b8265e005fff085ea4746fac1/jetified-play-services-base-17.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.2.1] /home/daniel/.gradle/caches/transforms-2/files-2.1/2712d05b8265e005fff085ea4746fac1/jetified-play-services-base-17.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/95d8b313eb24da732760fbd72efcb09e/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/95d8b313eb24da732760fbd72efcb09e/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/3e29a59298c7ad161408f566dfdd03e1/jetified-play-services-measurement-sdk-17.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/3e29a59298c7ad161408f566dfdd03e1/jetified-play-services-measurement-sdk-17.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/84e14895839161359092fc60adf02bc9/jetified-firebase-common-19.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/84e14895839161359092fc60adf02bc9/jetified-firebase-common-19.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/7fd6bde0ecc548a661b416b98cc3b5dc/jetified-play-services-measurement-impl-17.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/7fd6bde0ecc548a661b416b98cc3b5dc/jetified-play-services-measurement-impl-17.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/30588ba32b8ce68602f0611e026b0157/jetified-play-services-measurement-sdk-api-17.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/30588ba32b8ce68602f0611e026b0157/jetified-play-services-measurement-sdk-api-17.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/b40f052eb2725db8beb0e079afb212f2/jetified-play-services-measurement-base-17.3.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/b40f052eb2725db8beb0e079afb212f2/jetified-play-services-measurement-base-17.3.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/01fbe702b4ac3e80ad778234e3e5f4dc/jetified-play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/01fbe702b4ac3e80ad778234e3e5f4dc/jetified-play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/c067e897245b375cfe7ba419a0d6c9ab/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/c067e897245b375cfe7ba419a0d6c9ab/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/af7cfced671e037010781bdcd498efd0/jetified-play-services-tasks-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/af7cfced671e037010781bdcd498efd0/jetified-play-services-tasks-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/2cb07bdf3a2695a37fb8093c58b7b982/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/2cb07bdf3a2695a37fb8093c58b7b982/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/ce3dce0785ef0f9fae9d7f80d153a06c/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/ce3dce0785ef0f9fae9d7f80d153a06c/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.2.1] /home/daniel/.gradle/caches/transforms-2/files-2.1/e2bf145df02cb003302fd0f6fb02b042/jetified-play-services-basement-17.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.2.1] /home/daniel/.gradle/caches/transforms-2/files-2.1/e2bf145df02cb003302fd0f6fb02b042/jetified-play-services-basement-17.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/74c7064aa43a306dc9ec673e3ec4e43a/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/74c7064aa43a306dc9ec673e3ec4e43a/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.webkit:webkit:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/dc9c2d4a4e36311e3efb1ea9108ad0c2/webkit-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.webkit:webkit:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/dc9c2d4a4e36311e3efb1ea9108ad0c2/webkit-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/4f461786be9cdea7170b545b8abc8a29/browser-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/4f461786be9cdea7170b545b8abc8a29/browser-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/96f461c0a9ecbfa0e10367d50c7af384/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/96f461c0a9ecbfa0e10367d50c7af384/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/934af32f9ce9930717ff1261b5ab3616/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/934af32f9ce9930717ff1261b5ab3616/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/df91a56ec250c3dff4edfdffec667ea8/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/df91a56ec250c3dff4edfdffec667ea8/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/b2984781c5127aec543ccdc84eaf5bf8/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/b2984781c5127aec543ccdc84eaf5bf8/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/3d1437d33648a669afa64feef885ebeb/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/3d1437d33648a669afa64feef885ebeb/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/27ce63556ced46c5408965fa4e04194e/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/27ce63556ced46c5408965fa4e04194e/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/47246ad9ab15aeed2551d8e4370e90fc/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/47246ad9ab15aeed2551d8e4370e90fc/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/fb738ec4b037460af167e21a13b0d387/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/fb738ec4b037460af167e21a13b0d387/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/9c3bba4e88718c1986e47a93cb746faa/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/9c3bba4e88718c1986e47a93cb746faa/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/f7473fa632ee8092c2745a4ed2912acd/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/f7473fa632ee8092c2745a4ed2912acd/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.2.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/bb2ee2500cbb9418088545a9e6368078/core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/bb2ee2500cbb9418088545a9e6368078/core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/590fe9c707a9dc1f4f8d4f72ecb01776/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/590fe9c707a9dc1f4f8d4f72ecb01776/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/f7445f31cfda339dd60809aee98fd19c/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/f7445f31cfda339dd60809aee98fd19c/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/5988575caf479c66db34be4cfb919358/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/5988575caf479c66db34be4cfb919358/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/14023248e44f8ca3f560a1e97ad79aae/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/14023248e44f8ca3f560a1e97ad79aae/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/044c3ddb8b68f9a3d9588039df07687b/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/044c3ddb8b68f9a3d9588039df07687b/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/dac91c6ae775e97626d71b96ead666f2/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/dac91c6ae775e97626d71b96ead666f2/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/8f47bd0764ff3c356dbe76623ae543e5/jetified-firebase-components-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/8f47bd0764ff3c356dbe76623ae543e5/jetified-firebase-components-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/46759775a8a5336c2deb4c2949601d3a/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/46759775a8a5336c2deb4c2949601d3a/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/1d5bf59c47d7258521188e8ea9df105c/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/1d5bf59c47d7258521188e8ea9df105c/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/0dde20eaa9303437c2798faa88e3a315/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/0dde20eaa9303437c2798faa88e3a315/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/1475aa7afaea788c0dbf27b39a00a8bd/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/1475aa7afaea788c0dbf27b39a00a8bd/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/f17771748e189c29d6616533332bb6e0/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/f17771748e189c29d6616533332bb6e0/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/1dde5755a96af1495e00171cf7a2edbc/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/1dde5755a96af1495e00171cf7a2edbc/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/bf5dd4ad9e1ab76b533c7f19d891d6dd/jetified-firebase-database-collection-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/bf5dd4ad9e1ab76b533c7f19d891d6dd/jetified-firebase-database-collection-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/865b7a8fa03ddb50a4c9dd76c67b621b/jetified-protolite-well-known-types-17.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/865b7a8fa03ddb50a4c9dd76c67b621b/jetified-protolite-well-known-types-17.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.21.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/8332f0557055981b3423486e9d316403/jetified-grpc-android-1.21.0/AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.21.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/8332f0557055981b3423486e9d316403/jetified-grpc-android-1.21.0/AndroidManifest.xml:7:5-9:41
 INJECTED from /home/daniel/Documentos/Flutter/arboris/android/app/src/debug/AndroidManifest.xml
 INJECTED from /home/daniel/Documentos/Flutter/arboris/android/app/src/debug/AndroidManifest.xml
 	android:targetSdkVersion
@@ -284,18 +338,54 @@ INJECTED from /home/daniel/Documentos/Flutter/arboris/android/app/src/debug/Andr
 		INJECTED from /home/daniel/Documentos/Flutter/arboris/android/app/src/debug/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
 ADDED from /home/daniel/Documentos/Flutter/arboris/android/app/src/debug/AndroidManifest.xml:6:5-66
-MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/1826a194acbd3fc6470553ed939b8569/jetified-play-services-measurement-api-17.3.0/AndroidManifest.xml:22:5-67
-MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/1826a194acbd3fc6470553ed939b8569/jetified-play-services-measurement-api-17.3.0/AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/600d77649b193b87c1f99b3fd592a3d1/jetified-firebase-iid-20.0.2/AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/600d77649b193b87c1f99b3fd592a3d1/jetified-firebase-iid-20.0.2/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/fb6efdc00ccac645202c89214cce704b/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/fb6efdc00ccac645202c89214cce704b/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/ffa84bcda7b9d4d225327de3a27a25e3/jetified-play-services-measurement-impl-17.3.0/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/ffa84bcda7b9d4d225327de3a27a25e3/jetified-play-services-measurement-impl-17.3.0/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/998a38c40349eb2b5d6d7853f8ef0455/jetified-play-services-measurement-sdk-api-17.3.0/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/998a38c40349eb2b5d6d7853f8ef0455/jetified-play-services-measurement-sdk-api-17.3.0/AndroidManifest.xml:23:5-67
+MERGED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:16:5-67
+MERGED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:16:5-67
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/678e984f64d879f65c61ed69a7df981d/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/678e984f64d879f65c61ed69a7df981d/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:14:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/a056ef1592d2d55c102333ca13d6ef9d/jetified-play-services-measurement-api-17.3.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/a056ef1592d2d55c102333ca13d6ef9d/jetified-play-services-measurement-api-17.3.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/069ea62c472ec846c19ab8373d6e302a/jetified-firebase-iid-20.0.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/069ea62c472ec846c19ab8373d6e302a/jetified-firebase-iid-20.0.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/95d8b313eb24da732760fbd72efcb09e/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/95d8b313eb24da732760fbd72efcb09e/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/7fd6bde0ecc548a661b416b98cc3b5dc/jetified-play-services-measurement-impl-17.3.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/7fd6bde0ecc548a661b416b98cc3b5dc/jetified-play-services-measurement-impl-17.3.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/30588ba32b8ce68602f0611e026b0157/jetified-play-services-measurement-sdk-api-17.3.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/30588ba32b8ce68602f0611e026b0157/jetified-play-services-measurement-sdk-api-17.3.0/AndroidManifest.xml:23:5-67
 	android:name
 		ADDED from /home/daniel/Documentos/Flutter/arboris/android/app/src/debug/AndroidManifest.xml:6:22-64
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:cloud_firestore] /home/daniel/Documentos/Flutter/arboris/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] /home/daniel/Documentos/Flutter/arboris/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] /home/daniel/Documentos/Flutter/arboris/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/678e984f64d879f65c61ed69a7df981d/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/678e984f64d879f65c61ed69a7df981d/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/a056ef1592d2d55c102333ca13d6ef9d/jetified-play-services-measurement-api-17.3.0/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/a056ef1592d2d55c102333ca13d6ef9d/jetified-play-services-measurement-api-17.3.0/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/069ea62c472ec846c19ab8373d6e302a/jetified-firebase-iid-20.0.2/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/069ea62c472ec846c19ab8373d6e302a/jetified-firebase-iid-20.0.2/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/84e14895839161359092fc60adf02bc9/jetified-firebase-common-19.3.0/AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/84e14895839161359092fc60adf02bc9/jetified-firebase-common-19.3.0/AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-firestore:21.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/678e984f64d879f65c61ed69a7df981d/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:19:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/84e14895839161359092fc60adf02bc9/jetified-firebase-common-19.3.0/AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/84e14895839161359092fc60adf02bc9/jetified-firebase-common-19.3.0/AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [:cloud_firestore] /home/daniel/Documentos/Flutter/arboris/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:8:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.cloudfirestore.FlutterFirebaseAppRegistrar
+ADDED from [:cloud_firestore] /home/daniel/Documentos/Flutter/arboris/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:cloud_firestore] /home/daniel/Documentos/Flutter/arboris/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:cloud_firestore] /home/daniel/Documentos/Flutter/arboris/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-133
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_core] /home/daniel/Documentos/Flutter/arboris/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_core] /home/daniel/Documentos/Flutter/arboris/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_core] /home/daniel/Documentos/Flutter/arboris/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-123
 uses-permission#android.permission.ACCESS_FINE_LOCATION
 ADDED from [:geolocator] /home/daniel/Documentos/Flutter/arboris/build/geolocator/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-79
 	android:name
@@ -308,145 +398,363 @@ ADDED from [:url_launcher] /home/daniel/Documentos/Flutter/arboris/build/url_lau
 		ADDED from [:url_launcher] /home/daniel/Documentos/Flutter/arboris/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-71
 	android:name
 		ADDED from [:url_launcher] /home/daniel/Documentos/Flutter/arboris/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-74
-uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.android.gms:play-services-measurement-api:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/1826a194acbd3fc6470553ed939b8569/jetified-play-services-measurement-api-17.3.0/AndroidManifest.xml:23:5-79
-MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/600d77649b193b87c1f99b3fd592a3d1/jetified-firebase-iid-20.0.2/AndroidManifest.xml:22:5-79
-MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/600d77649b193b87c1f99b3fd592a3d1/jetified-firebase-iid-20.0.2/AndroidManifest.xml:22:5-79
-MERGED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/fb6efdc00ccac645202c89214cce704b/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/fb6efdc00ccac645202c89214cce704b/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/ffa84bcda7b9d4d225327de3a27a25e3/jetified-play-services-measurement-impl-17.3.0/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/ffa84bcda7b9d4d225327de3a27a25e3/jetified-play-services-measurement-impl-17.3.0/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/998a38c40349eb2b5d6d7853f8ef0455/jetified-play-services-measurement-sdk-api-17.3.0/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/998a38c40349eb2b5d6d7853f8ef0455/jetified-play-services-measurement-sdk-api-17.3.0/AndroidManifest.xml:24:5-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:7:5-9:47
+	android:protectionLevel
+		ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:9:9-44
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement-api:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/1826a194acbd3fc6470553ed939b8569/jetified-play-services-measurement-api-17.3.0/AndroidManifest.xml:23:22-76
-uses-permission#android.permission.WAKE_LOCK
-ADDED from [com.google.android.gms:play-services-measurement-api:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/1826a194acbd3fc6470553ed939b8569/jetified-play-services-measurement-api-17.3.0/AndroidManifest.xml:24:5-68
-MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/600d77649b193b87c1f99b3fd592a3d1/jetified-firebase-iid-20.0.2/AndroidManifest.xml:24:5-68
-MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/600d77649b193b87c1f99b3fd592a3d1/jetified-firebase-iid-20.0.2/AndroidManifest.xml:24:5-68
-MERGED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/fb6efdc00ccac645202c89214cce704b/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/fb6efdc00ccac645202c89214cce704b/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/ffa84bcda7b9d4d225327de3a27a25e3/jetified-play-services-measurement-impl-17.3.0/AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/ffa84bcda7b9d4d225327de3a27a25e3/jetified-play-services-measurement-impl-17.3.0/AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/998a38c40349eb2b5d6d7853f8ef0455/jetified-play-services-measurement-sdk-api-17.3.0/AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/998a38c40349eb2b5d6d7853f8ef0455/jetified-play-services-measurement-sdk-api-17.3.0/AndroidManifest.xml:25:5-68
+		ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:8:9-63
+permission#app.br.eco.arboris.permission.C2D_MESSAGE
+ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:7:5-9:47
+	android:protectionLevel
+		ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:9:9-44
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement-api:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/1826a194acbd3fc6470553ed939b8569/jetified-play-services-measurement-api-17.3.0/AndroidManifest.xml:24:22-65
-service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [com.google.android.gms:play-services-measurement-api:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/1826a194acbd3fc6470553ed939b8569/jetified-play-services-measurement-api-17.3.0/AndroidManifest.xml:27:9-33:19
-MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/600d77649b193b87c1f99b3fd592a3d1/jetified-firebase-iid-20.0.2/AndroidManifest.xml:29:9-35:19
-MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/600d77649b193b87c1f99b3fd592a3d1/jetified-firebase-iid-20.0.2/AndroidManifest.xml:29:9-35:19
-MERGED from [com.google.firebase:firebase-common:19.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/f6d83ae07c6ed22216560405f400207e/jetified-firebase-common-19.3.0/AndroidManifest.xml:32:9-36:35
-MERGED from [com.google.firebase:firebase-common:19.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/f6d83ae07c6ed22216560405f400207e/jetified-firebase-common-19.3.0/AndroidManifest.xml:32:9-36:35
-	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement-api:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/1826a194acbd3fc6470553ed939b8569/jetified-play-services-measurement-api-17.3.0/AndroidManifest.xml:29:13-37
-	tools:targetApi
-		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/f6d83ae07c6ed22216560405f400207e/jetified-firebase-common-19.3.0/AndroidManifest.xml:36:13-32
-	android:directBootAware
-		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/f6d83ae07c6ed22216560405f400207e/jetified-firebase-common-19.3.0/AndroidManifest.xml:34:13-43
+		ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:8:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:11:5-79
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement-api:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/1826a194acbd3fc6470553ed939b8569/jetified-play-services-measurement-api-17.3.0/AndroidManifest.xml:28:13-84
-meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
-ADDED from [com.google.android.gms:play-services-measurement-api:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/1826a194acbd3fc6470553ed939b8569/jetified-play-services-measurement-api-17.3.0/AndroidManifest.xml:30:13-32:85
-	android:value
-		ADDED from [com.google.android.gms:play-services-measurement-api:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/1826a194acbd3fc6470553ed939b8569/jetified-play-services-measurement-api-17.3.0/AndroidManifest.xml:32:17-82
+		ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:11:22-76
+uses-permission#app.br.eco.arboris.permission.C2D_MESSAGE
+ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:11:5-79
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement-api:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/1826a194acbd3fc6470553ed939b8569/jetified-play-services-measurement-api-17.3.0/AndroidManifest.xml:31:17-139
+		ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:11:22-76
 uses-permission#com.google.android.c2dm.permission.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/600d77649b193b87c1f99b3fd592a3d1/jetified-firebase-iid-20.0.2/AndroidManifest.xml:26:5-82
+ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:17:5-82
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/069ea62c472ec846c19ab8373d6e302a/jetified-firebase-iid-20.0.2/AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/069ea62c472ec846c19ab8373d6e302a/jetified-firebase-iid-20.0.2/AndroidManifest.xml:26:5-82
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/600d77649b193b87c1f99b3fd592a3d1/jetified-firebase-iid-20.0.2/AndroidManifest.xml:26:22-79
-meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
-ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/600d77649b193b87c1f99b3fd592a3d1/jetified-firebase-iid-20.0.2/AndroidManifest.xml:32:13-34:85
+		ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:17:22-79
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:18:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/a056ef1592d2d55c102333ca13d6ef9d/jetified-play-services-measurement-api-17.3.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/a056ef1592d2d55c102333ca13d6ef9d/jetified-play-services-measurement-api-17.3.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/069ea62c472ec846c19ab8373d6e302a/jetified-firebase-iid-20.0.2/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/069ea62c472ec846c19ab8373d6e302a/jetified-firebase-iid-20.0.2/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/95d8b313eb24da732760fbd72efcb09e/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/95d8b313eb24da732760fbd72efcb09e/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/7fd6bde0ecc548a661b416b98cc3b5dc/jetified-play-services-measurement-impl-17.3.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/7fd6bde0ecc548a661b416b98cc3b5dc/jetified-play-services-measurement-impl-17.3.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/30588ba32b8ce68602f0611e026b0157/jetified-play-services-measurement-sdk-api-17.3.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/30588ba32b8ce68602f0611e026b0157/jetified-play-services-measurement-sdk-api-17.3.0/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:18:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:23:5-66
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:23:22-63
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/678e984f64d879f65c61ed69a7df981d/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/678e984f64d879f65c61ed69a7df981d/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/a056ef1592d2d55c102333ca13d6ef9d/jetified-play-services-measurement-api-17.3.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/a056ef1592d2d55c102333ca13d6ef9d/jetified-play-services-measurement-api-17.3.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/069ea62c472ec846c19ab8373d6e302a/jetified-firebase-iid-20.0.2/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/069ea62c472ec846c19ab8373d6e302a/jetified-firebase-iid-20.0.2/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/95d8b313eb24da732760fbd72efcb09e/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/95d8b313eb24da732760fbd72efcb09e/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/7fd6bde0ecc548a661b416b98cc3b5dc/jetified-play-services-measurement-impl-17.3.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/7fd6bde0ecc548a661b416b98cc3b5dc/jetified-play-services-measurement-impl-17.3.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/30588ba32b8ce68602f0611e026b0157/jetified-play-services-measurement-sdk-api-17.3.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/30588ba32b8ce68602f0611e026b0157/jetified-play-services-measurement-sdk-api-17.3.0/AndroidManifest.xml:24:5-79
+MERGED from [io.grpc:grpc-android:1.21.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/8332f0557055981b3423486e9d316403/jetified-grpc-android-1.21.0/AndroidManifest.xml:11:5-79
+MERGED from [io.grpc:grpc-android:1.21.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/8332f0557055981b3423486e9d316403/jetified-grpc-android-1.21.0/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:24:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:29:5-81
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:29:22-78
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:31:5-86
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:31:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:32:5-87
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:32:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:33:5-81
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:33:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:34:5-83
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:34:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:35:5-88
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:35:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:36:5-92
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:36:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:37:5-84
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:37:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:38:5-83
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:38:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:39:5-91
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:39:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:40:5-92
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:40:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:41:5-93
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:41:22-90
+uses-permission#android.permission.READ_APP_BADGE
+ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:42:5-73
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:42:22-70
+uses-permission#com.oppo.launcher.permission.READ_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:43:5-82
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:43:22-79
+uses-permission#com.oppo.launcher.permission.WRITE_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:44:5-83
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:44:22-80
+uses-permission#me.everything.badger.permission.BADGE_COUNT_READ
+ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:45:5-88
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:45:22-85
+uses-permission#me.everything.badger.permission.BADGE_COUNT_WRITE
+ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:46:5-89
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:46:22-86
+meta-data#onesignal_app_id
+ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:49:9-51:51
+INJECTED from /home/daniel/Documentos/Flutter/arboris/android/app/src/debug/AndroidManifest.xml:49:9-51:51
 	android:value
-		ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/600d77649b193b87c1f99b3fd592a3d1/jetified-firebase-iid-20.0.2/AndroidManifest.xml:34:17-82
+		ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:51:13-48
+		INJECTED from /home/daniel/Documentos/Flutter/arboris/android/app/src/debug/AndroidManifest.xml
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/600d77649b193b87c1f99b3fd592a3d1/jetified-firebase-iid-20.0.2/AndroidManifest.xml:33:17-96
-receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
-ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/600d77649b193b87c1f99b3fd592a3d1/jetified-firebase-iid-20.0.2/AndroidManifest.xml:37:9-44:20
-	android:exported
-		ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/600d77649b193b87c1f99b3fd592a3d1/jetified-firebase-iid-20.0.2/AndroidManifest.xml:39:13-36
+		ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:50:13-44
+meta-data#onesignal_google_project_number
+ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:53:9-55:70
+INJECTED from /home/daniel/Documentos/Flutter/arboris/android/app/src/debug/AndroidManifest.xml:53:9-55:70
+	android:value
+		ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:55:13-67
+		INJECTED from /home/daniel/Documentos/Flutter/arboris/android/app/src/debug/AndroidManifest.xml
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:54:13-59
+receiver#com.onesignal.GcmBroadcastReceiver
+ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:57:9-67:20
 	android:permission
-		ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/600d77649b193b87c1f99b3fd592a3d1/jetified-firebase-iid-20.0.2/AndroidManifest.xml:40:13-73
+		ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:59:13-73
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/600d77649b193b87c1f99b3fd592a3d1/jetified-firebase-iid-20.0.2/AndroidManifest.xml:38:13-78
-intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/600d77649b193b87c1f99b3fd592a3d1/jetified-firebase-iid-20.0.2/AndroidManifest.xml:41:13-43:29
+		ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:58:13-62
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:62:13-66:29
+	android:priority
+		ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:62:28-50
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:app.br.eco.arboris
+ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:62:13-66:29
+	android:priority
+		ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:62:28-50
 action#com.google.android.c2dm.intent.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/600d77649b193b87c1f99b3fd592a3d1/jetified-firebase-iid-20.0.2/AndroidManifest.xml:42:17-81
+ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:63:17-81
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/600d77649b193b87c1f99b3fd592a3d1/jetified-firebase-iid-20.0.2/AndroidManifest.xml:42:25-78
-activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:17.2.1] /home/daniel/.gradle/caches/transforms-2/files-2.1/2a98964b1a7a52a1ba269561664871c8/jetified-play-services-base-17.2.1/AndroidManifest.xml:23:9-26:75
-	android:exported
-		ADDED from [com.google.android.gms:play-services-base:17.2.1] /home/daniel/.gradle/caches/transforms-2/files-2.1/2a98964b1a7a52a1ba269561664871c8/jetified-play-services-base-17.2.1/AndroidManifest.xml:25:13-37
+		ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:63:25-78
+category#${applicationId}
+ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:65:17-61
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:65:27-58
+category#app.br.eco.arboris
+ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:65:17-61
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:65:27-58
+receiver#com.onesignal.NotificationOpenedReceiver
+ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:68:9-77
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:68:19-74
+service#com.onesignal.GcmIntentService
+ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:70:9-66
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:70:18-63
+service#com.onesignal.GcmIntentJobService
+ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:71:9-73:72
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:73:13-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:72:13-61
+service#com.onesignal.RestoreJobService
+ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:74:9-76:72
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:76:13-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:75:13-59
+service#com.onesignal.RestoreKickoffJobService
+ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:77:9-79:72
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:79:13-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:78:13-66
+service#com.onesignal.SyncService
+ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:80:9-82:43
+	android:stopWithTask
+		ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:82:13-40
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:81:13-53
+service#com.onesignal.SyncJobService
+ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:83:9-85:72
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:85:13-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:84:13-56
+activity#com.onesignal.PermissionsActivity
+ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:87:9-89:75
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:17.2.1] /home/daniel/.gradle/caches/transforms-2/files-2.1/2a98964b1a7a52a1ba269561664871c8/jetified-play-services-base-17.2.1/AndroidManifest.xml:26:13-72
+		ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:89:13-72
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:17.2.1] /home/daniel/.gradle/caches/transforms-2/files-2.1/2a98964b1a7a52a1ba269561664871c8/jetified-play-services-base-17.2.1/AndroidManifest.xml:24:13-79
-uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
-ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/fb6efdc00ccac645202c89214cce704b/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:26:5-110
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/ffa84bcda7b9d4d225327de3a27a25e3/jetified-play-services-measurement-impl-17.3.0/AndroidManifest.xml:26:5-110
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/ffa84bcda7b9d4d225327de3a27a25e3/jetified-play-services-measurement-impl-17.3.0/AndroidManifest.xml:26:5-110
+		ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:88:13-61
+service#com.onesignal.NotificationRestoreService
+ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:91:9-76
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/fb6efdc00ccac645202c89214cce704b/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:26:22-107
-receiver#com.google.android.gms.measurement.AppMeasurementReceiver
-ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/fb6efdc00ccac645202c89214cce704b/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:29:9-33:20
-	android:enabled
-		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/fb6efdc00ccac645202c89214cce704b/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:31:13-35
-	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/fb6efdc00ccac645202c89214cce704b/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:32:13-37
+		ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:91:18-73
+receiver#com.onesignal.BootUpReceiver
+ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:93:9-98:20
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/fb6efdc00ccac645202c89214cce704b/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:30:13-85
-receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
-ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/fb6efdc00ccac645202c89214cce704b/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:34:9-42:20
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/ffa84bcda7b9d4d225327de3a27a25e3/jetified-play-services-measurement-impl-17.3.0/AndroidManifest.xml:29:9-37:20
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/ffa84bcda7b9d4d225327de3a27a25e3/jetified-play-services-measurement-impl-17.3.0/AndroidManifest.xml:29:9-37:20
-	android:enabled
-		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/fb6efdc00ccac645202c89214cce704b/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:36:13-35
-	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/fb6efdc00ccac645202c89214cce704b/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:37:13-36
-	android:permission
-		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/fb6efdc00ccac645202c89214cce704b/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:38:13-69
+		ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:93:19-62
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.QUICKBOOT_POWERON
+ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:94:13-97:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:95:17-79
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/fb6efdc00ccac645202c89214cce704b/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:35:13-100
-intent-filter#action:name:com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/fb6efdc00ccac645202c89214cce704b/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:39:13-41:29
-action#com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/fb6efdc00ccac645202c89214cce704b/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:40:17-79
+		ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:95:25-76
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:96:17-82
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/fb6efdc00ccac645202c89214cce704b/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:40:25-76
-service#com.google.android.gms.measurement.AppMeasurementService
-ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/fb6efdc00ccac645202c89214cce704b/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:44:9-47:40
-	android:enabled
-		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/fb6efdc00ccac645202c89214cce704b/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:46:13-35
-	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/fb6efdc00ccac645202c89214cce704b/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:47:13-37
+		ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:96:25-79
+receiver#com.onesignal.UpgradeReceiver
+ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:99:9-103:20
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/fb6efdc00ccac645202c89214cce704b/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:45:13-84
-service#com.google.android.gms.measurement.AppMeasurementJobService
-ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/fb6efdc00ccac645202c89214cce704b/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:48:9-52:72
-	android:enabled
-		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/fb6efdc00ccac645202c89214cce704b/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:50:13-35
-	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/fb6efdc00ccac645202c89214cce704b/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:51:13-37
-	android:permission
-		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/fb6efdc00ccac645202c89214cce704b/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:52:13-69
+		ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:99:19-63
+intent-filter#action:name:android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:100:13-102:29
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:101:17-84
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/fb6efdc00ccac645202c89214cce704b/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:49:13-87
-provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:19.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/f6d83ae07c6ed22216560405f400207e/jetified-firebase-common-19.3.0/AndroidManifest.xml:26:9-30:39
-	android:authorities
-		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/f6d83ae07c6ed22216560405f400207e/jetified-firebase-common-19.3.0/AndroidManifest.xml:28:13-72
-	android:exported
-		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/f6d83ae07c6ed22216560405f400207e/jetified-firebase-common-19.3.0/AndroidManifest.xml:29:13-37
-	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/f6d83ae07c6ed22216560405f400207e/jetified-firebase-common-19.3.0/AndroidManifest.xml:30:13-36
-	android:name
-		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/f6d83ae07c6ed22216560405f400207e/jetified-firebase-common-19.3.0/AndroidManifest.xml:27:13-77
-meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:17.2.1] /home/daniel/.gradle/caches/transforms-2/files-2.1/3da34ed19e26943f1a00a36fd9209b0e/jetified-play-services-basement-17.2.1/AndroidManifest.xml:23:9-25:69
+		ADDED from [com.onesignal:OneSignal:3.13.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/6da08fcc1185c16c792eb37df8101190/jetified-OneSignal-3.13.2/AndroidManifest.xml:101:25-81
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:21.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/678e984f64d879f65c61ed69a7df981d/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:20:13-22:85
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:17.2.1] /home/daniel/.gradle/caches/transforms-2/files-2.1/3da34ed19e26943f1a00a36fd9209b0e/jetified-play-services-basement-17.2.1/AndroidManifest.xml:25:13-66
+		ADDED from [com.google.firebase:firebase-firestore:21.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/678e984f64d879f65c61ed69a7df981d/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:22:17-82
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:17.2.1] /home/daniel/.gradle/caches/transforms-2/files-2.1/3da34ed19e26943f1a00a36fd9209b0e/jetified-play-services-basement-17.2.1/AndroidManifest.xml:24:13-58
+		ADDED from [com.google.firebase:firebase-firestore:21.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/678e984f64d879f65c61ed69a7df981d/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:21:17-111
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/a056ef1592d2d55c102333ca13d6ef9d/jetified-play-services-measurement-api-17.3.0/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/a056ef1592d2d55c102333ca13d6ef9d/jetified-play-services-measurement-api-17.3.0/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/a056ef1592d2d55c102333ca13d6ef9d/jetified-play-services-measurement-api-17.3.0/AndroidManifest.xml:31:17-139
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:20.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/ae724d885ac391742f31c206c570c347/jetified-firebase-messaging-20.0.0/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:20.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/ae724d885ac391742f31c206c570c347/jetified-firebase-messaging-20.0.0/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:20.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/ae724d885ac391742f31c206c570c347/jetified-firebase-messaging-20.0.0/AndroidManifest.xml:29:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:20.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/ae724d885ac391742f31c206c570c347/jetified-firebase-messaging-20.0.0/AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:20.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/ae724d885ac391742f31c206c570c347/jetified-firebase-messaging-20.0.0/AndroidManifest.xml:31:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:20.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/ae724d885ac391742f31c206c570c347/jetified-firebase-messaging-20.0.0/AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:20.0.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/ae724d885ac391742f31c206c570c347/jetified-firebase-messaging-20.0.0/AndroidManifest.xml:32:25-75
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/069ea62c472ec846c19ab8373d6e302a/jetified-firebase-iid-20.0.2/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/069ea62c472ec846c19ab8373d6e302a/jetified-firebase-iid-20.0.2/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/069ea62c472ec846c19ab8373d6e302a/jetified-firebase-iid-20.0.2/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/069ea62c472ec846c19ab8373d6e302a/jetified-firebase-iid-20.0.2/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/069ea62c472ec846c19ab8373d6e302a/jetified-firebase-iid-20.0.2/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/069ea62c472ec846c19ab8373d6e302a/jetified-firebase-iid-20.0.2/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/069ea62c472ec846c19ab8373d6e302a/jetified-firebase-iid-20.0.2/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/daniel/.gradle/caches/transforms-2/files-2.1/069ea62c472ec846c19ab8373d6e302a/jetified-firebase-iid-20.0.2/AndroidManifest.xml:41:13-43:29
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.2.1] /home/daniel/.gradle/caches/transforms-2/files-2.1/2712d05b8265e005fff085ea4746fac1/jetified-play-services-base-17.2.1/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.2.1] /home/daniel/.gradle/caches/transforms-2/files-2.1/2712d05b8265e005fff085ea4746fac1/jetified-play-services-base-17.2.1/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.2.1] /home/daniel/.gradle/caches/transforms-2/files-2.1/2712d05b8265e005fff085ea4746fac1/jetified-play-services-base-17.2.1/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.2.1] /home/daniel/.gradle/caches/transforms-2/files-2.1/2712d05b8265e005fff085ea4746fac1/jetified-play-services-base-17.2.1/AndroidManifest.xml:24:13-79
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/95d8b313eb24da732760fbd72efcb09e/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/7fd6bde0ecc548a661b416b98cc3b5dc/jetified-play-services-measurement-impl-17.3.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/7fd6bde0ecc548a661b416b98cc3b5dc/jetified-play-services-measurement-impl-17.3.0/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/95d8b313eb24da732760fbd72efcb09e/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/95d8b313eb24da732760fbd72efcb09e/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/95d8b313eb24da732760fbd72efcb09e/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/95d8b313eb24da732760fbd72efcb09e/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/95d8b313eb24da732760fbd72efcb09e/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/95d8b313eb24da732760fbd72efcb09e/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/7fd6bde0ecc548a661b416b98cc3b5dc/jetified-play-services-measurement-impl-17.3.0/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/7fd6bde0ecc548a661b416b98cc3b5dc/jetified-play-services-measurement-impl-17.3.0/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/95d8b313eb24da732760fbd72efcb09e/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/95d8b313eb24da732760fbd72efcb09e/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/95d8b313eb24da732760fbd72efcb09e/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/95d8b313eb24da732760fbd72efcb09e/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/95d8b313eb24da732760fbd72efcb09e/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/95d8b313eb24da732760fbd72efcb09e/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/95d8b313eb24da732760fbd72efcb09e/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/95d8b313eb24da732760fbd72efcb09e/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/95d8b313eb24da732760fbd72efcb09e/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/95d8b313eb24da732760fbd72efcb09e/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/95d8b313eb24da732760fbd72efcb09e/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/95d8b313eb24da732760fbd72efcb09e/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/95d8b313eb24da732760fbd72efcb09e/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/95d8b313eb24da732760fbd72efcb09e/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/95d8b313eb24da732760fbd72efcb09e/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/95d8b313eb24da732760fbd72efcb09e/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:49:13-87
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/84e14895839161359092fc60adf02bc9/jetified-firebase-common-19.3.0/AndroidManifest.xml:26:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/84e14895839161359092fc60adf02bc9/jetified-firebase-common-19.3.0/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/84e14895839161359092fc60adf02bc9/jetified-firebase-common-19.3.0/AndroidManifest.xml:29:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/84e14895839161359092fc60adf02bc9/jetified-firebase-common-19.3.0/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/daniel/.gradle/caches/transforms-2/files-2.1/84e14895839161359092fc60adf02bc9/jetified-firebase-common-19.3.0/AndroidManifest.xml:27:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.2.1] /home/daniel/.gradle/caches/transforms-2/files-2.1/e2bf145df02cb003302fd0f6fb02b042/jetified-play-services-basement-17.2.1/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.2.1] /home/daniel/.gradle/caches/transforms-2/files-2.1/e2bf145df02cb003302fd0f6fb02b042/jetified-play-services-basement-17.2.1/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.2.1] /home/daniel/.gradle/caches/transforms-2/files-2.1/e2bf145df02cb003302fd0f6fb02b042/jetified-play-services-basement-17.2.1/AndroidManifest.xml:24:13-58

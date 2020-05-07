@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/daniel/Documentos/Flutter/arboris/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
+            "map": [
+                {
+                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/46759775a8a5336c2deb4c2949601d3a/cardview-1.0.0/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "200"
+                    }
+                }
+            ]
+        }
+    ]
+}

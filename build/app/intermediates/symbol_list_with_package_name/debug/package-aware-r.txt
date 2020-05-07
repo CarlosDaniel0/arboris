@@ -1,8 +1,22 @@
 app.br.eco.arboris
+anim onesignal_fade_in
+anim onesignal_fade_out
 attr alpha
 attr buttonSize
+attr cardBackgroundColor
+attr cardCornerRadius
+attr cardElevation
+attr cardMaxElevation
+attr cardPreventCornerOverlap
+attr cardUseCompatPadding
+attr cardViewStyle
 attr circleCrop
 attr colorScheme
+attr contentPadding
+attr contentPaddingBottom
+attr contentPaddingLeft
+attr contentPaddingRight
+attr contentPaddingTop
 attr coordinatorLayoutStyle
 attr font
 attr fontProviderAuthority
@@ -27,6 +41,14 @@ attr scopeUris
 attr statusBarBackground
 attr ttcIndex
 color background
+color browser_actions_bg_grey
+color browser_actions_divider_color
+color browser_actions_text_color
+color browser_actions_title_color
+color cardview_dark_background
+color cardview_light_background
+color cardview_shadow_end_color
+color cardview_shadow_start_color
 color common_google_signin_btn_text_dark
 color common_google_signin_btn_text_dark_default
 color common_google_signin_btn_text_dark_disabled
@@ -42,6 +64,11 @@ color notification_action_color_filter
 color notification_icon_bg_color
 color ripple_material_light
 color secondary_text_default_material_light
+dimen browser_actions_context_menu_max_width
+dimen browser_actions_context_menu_min_padding
+dimen cardview_compat_inset_shadow
+dimen cardview_default_elevation
+dimen cardview_default_radius
 dimen compat_button_inset_horizontal_material
 dimen compat_button_inset_vertical_material
 dimen compat_button_padding_horizontal_material
@@ -87,6 +114,8 @@ drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable ic_os_notification_fallback_white_24dp
+drawable ic_stat_onesignal_default
 drawable launch_background
 drawable notification_action_background
 drawable notification_bg
@@ -145,6 +174,11 @@ id async
 id auto
 id blocking
 id bottom
+id browser_actions_header_text
+id browser_actions_menu_item_icon
+id browser_actions_menu_item_text
+id browser_actions_menu_items
+id browser_actions_menu_view
 id center
 id center_horizontal
 id center_vertical
@@ -172,6 +206,11 @@ id normal
 id notification_background
 id notification_main_column
 id notification_main_column_container
+id os_bgimage_notif_bgimage
+id os_bgimage_notif_bgimage_align_layout
+id os_bgimage_notif_bgimage_right_aligned
+id os_bgimage_notif_body
+id os_bgimage_notif_title
 id right
 id right_icon
 id right_side
@@ -193,6 +232,8 @@ id top
 id wide
 integer google_play_services_version
 integer status_bar_notification_info_maxnum
+layout browser_actions_context_menu_page
+layout browser_actions_context_menu_row
 layout custom_dialog
 layout notification_action
 layout notification_action_tombstone
@@ -200,8 +241,10 @@ layout notification_template_custom_big
 layout notification_template_icon_group
 layout notification_template_part_chronometer
 layout notification_template_part_time
+layout onesignal_bgimage_notif_layout
 mipmap foreground
 mipmap ic_launcher
+raw consumer_onesignal_keep
 string common_google_play_services_enable_button
 string common_google_play_services_enable_text
 string common_google_play_services_enable_title
@@ -221,6 +264,7 @@ string common_open_on_phone
 string common_signin_button_text
 string common_signin_button_text_long
 string default_web_client_id
+string fcm_fallback_notification_channel_label
 string firebase_database_url
 string gcm_defaultSenderId
 string google_api_key
@@ -229,6 +273,10 @@ string google_crash_reporting_api_key
 string google_storage_bucket
 string project_id
 string status_bar_notification_info_overflow
+style Base_CardView
+style CardView
+style CardView_Dark
+style CardView_Light
 style LaunchTheme
 style TextAppearance_Compat_Notification
 style TextAppearance_Compat_Notification_Info
@@ -238,6 +286,7 @@ style TextAppearance_Compat_Notification_Title
 style Widget_Compat_NotificationActionContainer
 style Widget_Compat_NotificationActionText
 style Widget_Support_CoordinatorLayout
+styleable CardView android_minWidth android_minHeight cardBackgroundColor cardCornerRadius cardElevation cardMaxElevation cardPreventCornerOverlap cardUseCompatPadding contentPadding contentPaddingBottom contentPaddingLeft contentPaddingRight contentPaddingTop
 styleable ColorStateListItem android_color android_alpha alpha
 styleable CoordinatorLayout keylines statusBarBackground
 styleable CoordinatorLayout_Layout android_layout_gravity layout_anchor layout_anchorGravity layout_behavior layout_dodgeInsetEdges layout_insetEdge layout_keyline

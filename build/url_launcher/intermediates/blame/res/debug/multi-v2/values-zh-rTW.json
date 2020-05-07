@@ -4,7 +4,7 @@
             "outputFile": "/home/daniel/Documentos/Flutter/arboris/build/url_launcher/intermediates/res/merged/debug/values-zh-rTW/values-zh-rTW.xml",
             "map": [
                 {
-                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/1519f70cbcbf872fcd1d43e6bb1b4af9/core-1.0.0/res/values-zh-rTW/values-zh-rTW.xml",
+                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/988d7554fe85a375ec937b51de94e541/core-1.0.0/res/values-zh-rTW/values-zh-rTW.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -19,7 +19,7 @@
             "outputFile": "/home/daniel/Documentos/Flutter/arboris/build/url_launcher/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml",
             "map": [
                 {
-                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/1519f70cbcbf872fcd1d43e6bb1b4af9/core-1.0.0/res/values-zh-rTW/values-zh-rTW.xml",
+                    "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/988d7554fe85a375ec937b51de94e541/core-1.0.0/res/values-zh-rTW/values-zh-rTW.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

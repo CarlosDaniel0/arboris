@@ -2,7 +2,7 @@
     {
         "idArvore" : 1,
         "titulo" : "Pé de cajá",
-        "descricao" : "Pé de cajá",
+        "descricao" : "A cajazeira (Spondias mombin ou Spondias lutea), também conhecida pelos nomes cajazeiro, cajá, cajá-mirim, cajazinha, taperebá, acaiá, acaiaba, acajá, acajaíba, ambaló, ambareira, ambareiro, ambaró, cajaeiro, cajarana, cajá-pequeno, cajazeiro-miúdo, catona, guegue, ibametara, cajá manga, minguengue, moxubiá, muguengo e muguengue , é uma árvore que chega a medir até 25 metros, da família das anacardiáceas, de casca adstringente e emética, madeira branca, folhas imparipenadas, flores aromáticas em grandes panículas e drupas alaranjadas, de polpa resinosa, ácida, comestível e saudável, conhecidas como cajás",
         "localizacao" : [-5.5638, -42.608],
         "categoria" : "Frutífera",
         "fotografos" : "Karine Goes",
@@ -12,7 +12,7 @@
     {
         "idArvore" : 2,
         "titulo" : "Pé de manga",
-        "descricao" : "Pé de manga",
+        "descricao" : "A manga é o fruto da mangueira (Mangifera indica L.), árvore frutífera da família Anacardiaceae, nativa do sul e do sudeste asiático desde o leste da Índia até as Filipinas, e introduzida com sucesso no Brasil, em Angola, em Moçambique e em outros países tropicais. O nome da fruta vem da palavra do idioma malaiala manga e foi popularizada na Europa pelos portugueses, que conheceram a fruta em Kerala (que conseguiram pelas trocas de temperos).",
         "localizacao" : [-5.564657, -42.608611],
         "categoria" : "Frutífera",
         "fotografos" : "Jainara",
@@ -22,7 +22,7 @@
     {
         "idArvore" : 3,
         "titulo" : "Coco babaçu",
-        "descricao" : "Coco babaçu",
+        "descricao" : "O babaçu também chamado bauaçu, baguaçu, auaçu, aguaçu, guaguaçu, uauaçu, gebara-uçu, coco-de-macaco, coco-de-palmeira, coco-naiá, coco-pindoba e palha-branca, é uma espécie (Attalea speciosa) da família das palmeiras (Arecaceae), dotada de frutos drupáceos com sementes oleaginosas e comestíveis das quais se extrai um óleo, empregado sobretudo na alimentação, remédios, além de ser alvo de pesquisas avançadas para a fabricação de biocombustíveis.",
         "localizacao" : [-5.565055851089167, -42.6087012598605],
         "categoria" : "Frutífera",
         "fotografos" : "Jéssica",
@@ -32,7 +32,7 @@
     {
         "idArvore" : 4,
         "titulo" : "Ipê amarelo",
-        "descricao" : "Ipê amarelo",
+        "descricao" : "O ipê-amarelo-flor-de-algodão, que possui o nome científico Handroanthus serratifolius, é uma espécie de árvore do gênero Handroanthus. É uma árvore com porte que varia de médio a grande e pode atingir de 15 a 30 metros de altura. Possui o tronco fissurado formando finas placas que se soltam em pequenas quantidades. Suas flores são de cor amarelo-dourado e se formam em cachos",
         "localizacao" : [-5.565285, -42.608103],
         "categoria" : "Ornamental",
         "fotografos" : "Jéssica",
@@ -52,7 +52,7 @@
     {
         "idArvore" : 6,
         "titulo" : "Pé de goiaba",
-        "descricao" : "Pé de goiaba",
+        "descricao" : "A goiabeira (Psidium guajava L.) é uma pequena árvore frutífera tropical, nativa de toda a América, exceto México e Canadá.\nTambém é conhecida pelos nomes de araçá-guaçu, araçaíba, araçá-das-almas, araçá-mirim, araçauaçu, araçá-goiaba, goiaba, goiabeira-branca, goiabeira-vermelha, guaiaba, guaiava, guava, guiaba, mepera e pereira.\n \nApresenta três variedades:\n  \nPsidium guajava var. cujavillum (Burman) Krug & Urb. 1894\nPsidium guajava var. guajava\nPsidium guajava var. minor Mattos 1976",
         "localizacao" : [-5.565464, -42.607987],
         "categoria" : "Frutífera",
         "fotografos" : "Douglas Daniel",
@@ -82,7 +82,7 @@
     {
         "idArvore" : 9,
         "titulo" : "Oiticica",
-        "descricao" : "Oiticica",
+        "descricao" : "A oiticica (Licania rigida) é uma planta da família Chrysobalanaceae, endêmica na caatinga e na vegetação típica da faixa de transição entre o sertão semiárido do Nordeste e a região Amazônica (Mata dos Cocais). Nesta mata se encontra a palmeira babaçu, da qual é extraído o óleo utilizado na fabricação de cosméticos, margarinas, sabões e lubrificantes.",
         "localizacao" : [-5.564863, -42.608091],
         "categoria" : "Geral",
         "fotografos" : "Karine Goes",
@@ -92,7 +92,7 @@
     {
         "idArvore" : 10,
         "titulo" : "Faveira",
-        "descricao" : "Faveira",
+        "descricao" : "Dimorphandra mollis é uma espécie brasileira de árvore cujas sementes são tóxicas para o gado bovino. Os exemplares da espécie medem entre 8 e 14 metros de altura. É conhecida popularmente pelos nomes farinha, barbatimão-falso, barbatimão-de-folha-miúda, faveiro-do-cerrado, fava-d'anta, faveira, favinha, canafístula e faveiro.",
         "localizacao" : [-5.565321, -42.608672],
         "categoria" : "Geral",
         "fotografos" : "Jainara Costa",
@@ -102,7 +102,7 @@
     {
         "idArvore" : 11,
         "titulo" : "Bambu",
-        "descricao" : "Bambu",
+        "descricao" : "Bambu é a planta da subfamília Bambusoideae, uma da família das gramíneas (Poaceae ou Gramineae). Essa subfamília se subdivide em duas tribos, a Bambuseae (os bambus chamados de lenhosos) e a Olyrae (os bambus chamados herbáceos). O bambu possui caules lenhificados utilizados na fabricação de diversos objetos como instrumentos musicais, móveis, cestos e até na construção civil, onde é utilizado em construções de edifícios à prova de terremotos. Também é possível produzir a partir desta gramínea, a fibra de bambu.",
         "localizacao" : [-5.565412, -42.60824],
         "categoria" : "Geral",
         "fotografos" : "Jainara Costa",
@@ -122,7 +122,7 @@
     {
         "idArvore" : 13,
         "titulo" : "Pé de umbu",
-        "descricao" : "Pé de umbu",
+        "descricao" : "Spondias tuberosa L., popularmente conhecido como umbuzeiro, imbuzeiro ou jique é uma árvore de pequeno porte (mede até seis metros de altura), pertencente à família das anacardiáceas, de copa larga (até quinze metros de largura), originária dos chapadões semiáridos do Nordeste brasileiro, que se destaca por fornecer sombra e aconchego. Dada a importância de suas raízes, foi chamada 'árvore sagrada do Sertão' por Euclides da Cunha",
         "localizacao" : [-5.562781, -42.615138],
         "categoria" : "Frutífera",
         "fotografos" : "Marcos Felipe",
@@ -142,7 +142,7 @@
     {
         "idArvore" : 15,
         "titulo" : "Pé de Cajá",
-        "descricao" : "Pé de Cajá",
+        "descricao" : "A cajazeira (Spondias mombin ou Spondias lutea), também conhecida pelos nomes cajazeiro, cajá, cajá-mirim, cajazinha, taperebá, acaiá, acaiaba, acajá, acajaíba, ambaló, ambareira, ambareiro, ambaró, cajaeiro, cajarana, cajá-pequeno, cajazeiro-miúdo, catona, guegue, ibametara, cajá manga, minguengue, moxubiá, muguengo e muguengue , é uma árvore que chega a medir até 25 metros, da família das anacardiáceas, de casca adstringente e emética, madeira branca, folhas imparipenadas, flores aromáticas em grandes panículas e drupas alaranjadas, de polpa resinosa, ácida, comestível e saudável, conhecidas como cajás",
         "localizacao" : [-5.56403, -42.6073],
         "categoria" : "Frutífera",
         "fotografos" : "Maylla Rocha",

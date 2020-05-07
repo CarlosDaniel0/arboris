@@ -1,18 +1,18 @@
 [
     {
         "merged": "/home/daniel/Documentos/Flutter/arboris/build/url_launcher/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
-        "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/1519f70cbcbf872fcd1d43e6bb1b4af9/core-1.0.0/res/layout-v21/notification_template_custom_big.xml"
+        "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/988d7554fe85a375ec937b51de94e541/core-1.0.0/res/layout-v21/notification_template_custom_big.xml"
     },
     {
         "merged": "/home/daniel/Documentos/Flutter/arboris/build/url_launcher/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
-        "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/1519f70cbcbf872fcd1d43e6bb1b4af9/core-1.0.0/res/layout-v21/notification_action_tombstone.xml"
+        "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/988d7554fe85a375ec937b51de94e541/core-1.0.0/res/layout-v21/notification_action_tombstone.xml"
     },
     {
         "merged": "/home/daniel/Documentos/Flutter/arboris/build/url_launcher/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
-        "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/1519f70cbcbf872fcd1d43e6bb1b4af9/core-1.0.0/res/layout-v21/notification_template_icon_group.xml"
+        "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/988d7554fe85a375ec937b51de94e541/core-1.0.0/res/layout-v21/notification_template_icon_group.xml"
     },
     {
         "merged": "/home/daniel/Documentos/Flutter/arboris/build/url_launcher/intermediates/res/merged/debug/layout-v21/notification_action.xml",
-        "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/1519f70cbcbf872fcd1d43e6bb1b4af9/core-1.0.0/res/layout-v21/notification_action.xml"
+        "source": "/home/daniel/.gradle/caches/transforms-2/files-2.1/988d7554fe85a375ec937b51de94e541/core-1.0.0/res/layout-v21/notification_action.xml"
     }
 ]
