@@ -4,6 +4,7 @@ import './telas/sobre.dart';
 import './telas/contribuir.dart';
 import './telas/sobre_o_app.dart';
 import 'package:flutter_map/flutter_map.dart';
+import 'package:onesignal_flutter/onesignal_flutter.dart';
 
 class Home extends StatefulWidget {
   Home({
@@ -31,6 +32,11 @@ class _HomeState extends State<Home> {
   int _indicieSelecao = 0;
   @override
   Widget build(BuildContext context) {
+    OneSignal.shared.init("3a00daef-f90f-437e-84a2-caedc9082ef7");
+    // OneSignal.shared.setInFocusDisplayType(OSNotificationDisplayType.notification);
+    // OneSignal.shared.setNotificationReceivedHandler((oSNotification) {
+
+    // });
     return Scaffold(
         appBar: AppBar(
           title: Text("$tituloApp"),

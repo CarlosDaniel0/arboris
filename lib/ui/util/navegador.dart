@@ -27,13 +27,15 @@ class _NavegadorState extends State<Navegador> {
 
   @override
   Widget build(BuildContext context) {
-    
     return Scaffold(
       appBar: AppBar(
         title: GestureDetector(
-          onTap: () {
+          onTap: () async {
             Clipboard.setData(
               ClipboardData(text: url,)
+            );
+            Scaffold.of(context).showSnackBar(
+              SnackBar(content: Text("Texto copiado para área de trasnferência"))
             );
           },
           child: Text("$url")),
@@ -48,15 +50,6 @@ class _NavegadorState extends State<Navegador> {
                   );
               }).toList();
             }),
-
-          // FlatButton(
-          //   onPressed: () {
-          //     // launch('$url');
-          //   }, 
-          //   onLongPress: () {
-          //     },
-          //   child: Icon(Icons.open_in_browser, color: Colors.white,)
-          //   )
         ],
         leading: FlatButton(
           onPressed: () {
@@ -64,21 +57,25 @@ class _NavegadorState extends State<Navegador> {
           }, 
           child: Icon(Icons.close, color: Colors.white)),
       ),
-      body: WebView(
-        javascriptMode: JavascriptMode.unrestricted,
-        initialUrl: url,
-        onWebViewCreated: (WebViewController webViewController) {
-            _controller.complete(webViewController);
-          },
-      gestureNavigationEnabled: true,
-      ) 
+      body: 
+        WebView(
+          javascriptMode: JavascriptMode.unrestricted,
+          initialUrl: url,
+          onWebViewCreated: (WebViewController webViewController) {
+              _controller.complete(webViewController);
+            },
+        gestureNavigationEnabled: true,
+        ),
     );
   }
 
-  void selecao(String escolha) {
+  void selecao(String escolha) async {
     if (escolha == Constantes.copia) {
       Clipboard.setData(
         ClipboardData(text: url,)
+      );
+      Scaffold.of(context).showSnackBar(
+        SnackBar(content: Text("Texto copiado para área de trasnferência"))
       );
     } else if (escolha == Constantes.chrome) {
       launch(url);

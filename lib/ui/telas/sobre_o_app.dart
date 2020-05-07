@@ -15,8 +15,8 @@ class SobreOApp extends StatelessWidget {
                 padding: const EdgeInsets.symmetric(vertical: 8.0),
                 child: Card(
                   child: ListTile(
-                    title: Text("Esse app utiliza a localização do usuário para mapear árvores, sendo o uso desses dados restritos apenas a essa finalidade. Informações sugeridas pelos colaboradores serão avaliadas pelos desenvolvedores antes de serem disponibilizadas no app."),
-                    subtitle: Text("Versão: 1.0.0.15"),
+                    title: Text("Esse app utiliza a localização do usuário para mapear árvores, sendo o uso desses dados restritos apenas a essa finalidade. Informações sugeridas pelos colaboradores serão avaliadas pelos desenvolvedores antes de serem disponibilizadas no app.\n\n©Mapbox, ©OpenStreetMap e colaboradores."),
+                    subtitle: Text("Versão: 1.0.2.6"),
                   ),
                 ),
               ),
