@@ -68,7 +68,7 @@ class Descricao extends StatelessWidget {
       
         ListTile(
           title: Text("Descrição", style: forte()),
-          subtitle: Text(descricao, style: texto()),
+          subtitle: Text(descricao, style: texto(), textAlign: TextAlign.justify,),
         ),
         ListTile(
           title: Text("Categoria", style: forte()),
