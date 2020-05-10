@@ -32,11 +32,24 @@ class _HomeState extends State<Home> {
   int _indicieSelecao = 0;
   @override
   Widget build(BuildContext context) {
+    Future<bool> botaoVoltar() {
+      return showDialog(
+        context: context,
+        builder: (context) => AlertDialog(
+          title: Text("Deseja sair do app?"),
+          actions: <Widget>[
+            FlatButton(onPressed: () => Navigator.pop(context, true), child: Text("Sim")),
+            FlatButton(onPressed: () {
+              setState(() {
+                _indicieSelecao = 0;
+                Navigator.pop(context, false);
+              });
+            }, child: Text("Não"))
+          ],
+        )
+      );
+    }
     OneSignal.shared.init("3a00daef-f90f-437e-84a2-caedc9082ef7");
-    // OneSignal.shared.setInFocusDisplayType(OSNotificationDisplayType.notification);
-    // OneSignal.shared.setNotificationReceivedHandler((oSNotification) {
-
-    // });
     return Scaffold(
         appBar: AppBar(
           title: Text("$tituloApp"),
@@ -96,8 +109,11 @@ class _HomeState extends State<Home> {
             ),
           )
         ),
-        body: 
-          _mostrarItem(_indicieSelecao)
+        body:
+          WillPopScope(
+            child: _mostrarItem(_indicieSelecao), 
+            onWillPop: botaoVoltar
+          )
       );
   }
 

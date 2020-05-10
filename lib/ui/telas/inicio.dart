@@ -1,4 +1,4 @@
-import 'package:arboris/ui/descricao.dart';
+import '../descricao.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_map/plugin_api.dart';
 import 'package:flutter_map/flutter_map.dart';
@@ -24,7 +24,6 @@ int id;
 List<Marker> marcadores;
 BorderRadius borda = BorderRadius.only(topLeft: Radius.circular(15), topRight: Radius.circular(15));
 PanelController controller;
-double _minHeight = 75;
 
 class _InicioState extends State<Inicio> {
   _InicioState({
@@ -74,22 +73,11 @@ class _InicioState extends State<Inicio> {
                     child:
                       GestureDetector(
                         onLongPress: () {
-                          Navigator.push(context, MaterialPageRoute(builder: (context) =>
-                            Descricao(
-                              titulo: dados[i]['titulo'], 
-                              descricao: dados[i]['descricao'], 
-                              categoria: dados[i]['categoria'], 
-                              height: dados[i]['height'], 
-                              fotos: dados[i]['fotos'], 
-                              fotografos: dados[i]['fotografos'])
-                            ));
                         },
                         child: IconButton(
                           iconSize: 55,
                           icon: 
                           Image.asset("assets/icon.png"),
-                          // Icon(Icons.location_on),
-                          // FaIcon(FontAwesomeIcons.tree, color: Colors.green), 
                           onPressed: () {
                             setState(() {
                               id = i;
@@ -111,21 +99,11 @@ class _InicioState extends State<Inicio> {
                     child:
                       GestureDetector(
                         onLongPress: () {
-                          Navigator.push(context, MaterialPageRoute(builder: (context) =>
-                            Descricao(
-                              titulo: dados[i]['titulo'], 
-                              descricao: dados[i]['descricao'], 
-                              categoria: dados[i]['categoria'], 
-                              height: dados[i]['height'], 
-                              fotos: dados[i]['fotos'], 
-                              fotografos: dados[i]['fotografos'])
-                            ));
                         },
                         child: IconButton(
                           iconSize: 55,
                           icon: 
                           Image.asset("assets/icon.png"),
-                          // FaIcon(FontAwesomeIcons.tree, color: Colors.green), 
                           onPressed: () {
                             setState(() {
                               id = i;
@@ -303,8 +281,7 @@ class _InicioState extends State<Inicio> {
               fotos: dados[id]['fotos'], 
               fotografos: dados[id]['fotografos']),
           controller: controller,
-          minHeight: _minHeight,
-          // maxHeight: (MediaQuery.of(context).size.height),
+          minHeight: 75,
         )
         : Container(),
       ] 

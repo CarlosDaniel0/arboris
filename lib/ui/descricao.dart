@@ -66,14 +66,31 @@ class Descricao extends StatelessWidget {
           ) :
           Container(),
       
+        SizedBox(
+          height: 15,
+        ),
+
         ListTile(
           title: Text("Descrição", style: forte()),
           subtitle: Text(descricao, style: texto(), textAlign: TextAlign.justify,),
         ),
+        Divider(height: 5.0),
         ListTile(
           title: Text("Categoria", style: forte()),
           subtitle: Text(categoria, style: texto()),
         ),
+
+        SizedBox(
+          height: 20,
+        ),
+
+        Padding(
+          padding: const EdgeInsets.only(bottom: 8.0, right: 8.0),
+          child: Align(
+            alignment: Alignment.bottomRight,
+            child: Text("Fonte: Wikipédia", style: TextStyle(fontSize: 16, fontWeight: FontWeight.w600)),
+          ),
+        )
       ],
     )
     );
